@@ -13,8 +13,7 @@ def get_valid_segment(s):
     start, end = valid.index[0], valid.index[-1]
     return start, end, s.loc[start:end]
 
-def emd_modes(data, fast_idx=(0,2), medium_idx=(3,5)):
-
+def emd_modes(data):
     fast, medium, slow = {}, {}, {}
     emd = EMD()
 
@@ -33,19 +32,28 @@ def emd_modes(data, fast_idx=(0,2), medium_idx=(3,5)):
         except Exception:
             continue
 
-        f = np.zeros(len(x))
-        m = np.zeros(len(x))
-        sl = np.zeros(len(x))
+        N = len(imfs)
+        if N < 3:
+            continue  # not enough structure
 
-        for i in range(len(imfs)):
-            if fast_idx[0] <= i <= fast_idx[1]:
-                f += imfs[i]
-            elif medium_idx[0] <= i <= medium_idx[1]:
-                m += imfs[i]
-            else:
-                sl += imfs[i]
+        # ---- adaptive split ----
+        k = N // 3
 
-        # cria série completa com NaNs
+        if k == 0:
+            fast_imfs = imfs[:1]
+            medium_imfs = imfs[1:2] if N > 1 else []
+            slow_imfs = imfs[2:]
+        else:
+            fast_imfs = imfs[:k]
+            medium_imfs = imfs[k:2*k]
+            slow_imfs = imfs[2*k:]
+
+        # ---- aggregate ----
+        f = np.sum(fast_imfs, axis=0) if len(fast_imfs) else np.zeros(len(x))
+        m = np.sum(medium_imfs, axis=0) if len(medium_imfs) else np.zeros(len(x))
+        sl = np.sum(slow_imfs, axis=0) if len(slow_imfs) else np.zeros(len(x))
+
+        # ---- full-length series ----
         f_full = pd.Series(np.nan, index=data.index)
         m_full = pd.Series(np.nan, index=data.index)
         sl_full = pd.Series(np.nan, index=data.index)
