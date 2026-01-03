@@ -21,6 +21,7 @@ dependencies = [
     "vmdpy (>=0.2,<0.3)",
     "scikit-learn (>=1.8.0,<2.0.0)",
     "igraph (>=1.0.0,<2.0.0)",
+    "yfinance (>=1.0,<2.0)",
 ]
 
 
