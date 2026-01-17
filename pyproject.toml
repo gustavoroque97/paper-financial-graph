@@ -22,6 +22,9 @@ dependencies = [
     "scikit-learn (>=1.8.0,<2.0.0)",
     "igraph (>=1.0.0,<2.0.0)",
     "yfinance (>=1.0,<2.0)",
+    "cvxpy (>=1.7.5,<2.0.0)",
+    "mosek (>=11.0.30,<12.0.0)",
+    "python-louvain (>=0.16,<0.17)",
 ]
 
 
