@@ -1,48 +1,49 @@
 Ticker,No.,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
-AEHL,90,Antelope Enterprise Holdings Ltd,Industrials,Building Products & Equipment,China,8460000.0,,2.47,-10.7,134180
+AAPL,13,Apple Inc,Technology,Consumer Electronics,USA,4047240000000.0,36.72,273.9,-0.08,11359586
+ACWX,64,iShares MSCI ACWI ex US ETF,Financial,Exchange Traded Fund,USA,,,65.97,-2.06,676941
 AMCX,198,AMC Networks Inc,Communication Services,Entertainment,USA,431790000.0,,9.92,-0.6,200647
-AMSC,215,American Superconductor Corp,Industrials,Specialty Industrial Machinery,USA,1440000000.0,85.6,31.84,1.06,163486
-ARCC,283,Ares Capital Corp,Financial,Asset Management,USA,14410000000.0,10.11,20.13,-0.89,2306339
+AMTX,218,Aemetis Inc,Basic Materials,Specialty Chemicals,USA,94400000.0,,1.44,0.69,202591
 ARTW,303,Art's-way Manufacturing Co. Inc,Industrials,Farm & Heavy Construction Machinery,USA,11590000.0,6.32,2.27,1.79,3827
-ASTE,323,Astec Industries Inc,Industrials,Farm & Heavy Construction Machinery,USA,1060000000.0,22.3,46.46,0.45,19864
-ATLO,342,Ames National Corp,Financial,Banks - Regional,USA,212210000.0,13.27,23.86,0.13,4981
-BILI,492,Bilibili Inc ADR,Communication Services,Internet Content & Information,China,8110000000.0,101.04,24.27,-1.02,380860
+AWRE,391,Aware Inc,Technology,Software - Application,USA,45310000.0,,2.12,0.95,612
+BHF,485,Brighthouse Financial Inc,Financial,Insurance - Life,USA,3730000000.0,4.45,65.31,-0.07,215789
 BND,547,Vanguard Total Bond Market ETF,Financial,Exchange Traded Fund,USA,,,74.21,0.12,3197989
 BWFG,667,Bankwell Financial Group Inc,Financial,Banks - Regional,USA,391710000.0,13.79,49.73,0.23,10584
 CACC,684,Credit Acceptance Corp,Financial,Credit Services,USA,5100000000.0,12.23,461.95,-0.45,33572
 CBRL,723,Cracker Barrel Old Country Store Inc,Consumer Cyclical,Restaurants,USA,583540000.0,35.15,26.14,-1.82,426801
+CDC,750,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,Financial,Exchange Traded Fund,USA,,,66.06,-0.96,11031
 CDNA,755,Caredx Inc,Healthcare,Diagnostics & Research,USA,989050000.0,16.13,19.23,-3.42,244731
 CHGX,813,Stance Sustainable Beta ETF,Financial,Exchange Traded Fund,USA,,,27.05,-0.86,1650
 CHI,814,Calamos Convertible Opportunities and Income Fund,Financial,Closed-End Fund - Debt,USA,816290000.0,14.76,10.48,-0.26,135573
 CLBK,845,"Columbia Financial, Inc",Financial,Banks - Regional,USA,1780000000.0,117.51,17.05,-0.64,22518
 CMCO,872,Columbus Mckinnon Corp,Industrials,Farm & Heavy Construction Machinery,USA,507340000.0,129.66,17.66,-0.17,33459
-COLM,914,Columbia Sportswear Co,Consumer Cyclical,Apparel Manufacturing,USA,3030000000.0,16.9,56.18,-1.51,87211
+COMT,916,iShares GSCI Commodity Dynamic Roll Strategy ETF,Financial,Exchange Traded Fund,USA,,,24.32,-8.21,76826
 COST,928,Costco Wholesale Corp,Consumer Defensive,Discount Stores,USA,380310000000.0,45.89,856.63,-0.46,1681585
 CSCO,991,"Cisco Systems, Inc",Technology,Communication Equipment,USA,307930000000.0,29.39,77.93,-0.4,4095268
 CSQ,997,Calamos Strategic Total Return Fund,Financial,Closed-End Fund - Debt,USA,3020000000.0,10.82,18.83,-0.29,98971
 CTAS,1002,Cintas Corporation,Industrials,Specialty Business Services,USA,75480000000.0,41.74,187.83,-0.33,631827
 CVBF,1025,CVB Financial Corp,Financial,Banks - Regional,USA,2720000000.0,13.49,19.9,-1.44,239745
+DWSH,1193,AdvisorShares Dorsey Wright Short ETF -1x Shares,Financial,Exchange Traded Fund,USA,,,6.77,0.37,4177
 EBMT,1215,Eagle Bancorp Montana Inc,Financial,Banks - Regional,USA,156340000.0,11.38,19.66,2.08,7855
-ECOW,1220,Pacer Emerging Markets Cash Cows 100 ETF,Financial,Exchange Traded Fund,USA,,,25.1,-0.84,9808
 EEFT,1231,Euronet Worldwide Inc,Technology,Software - Infrastructure,USA,3210000000.0,11.15,76.41,-0.5,172169
 EMCB,1273,WisdomTree Emerging Markets Corporate Bond Fund,Financial,Exchange Traded Fund,USA,,,67.21,0.29,111
 EVRG,1352,Evergy Inc,Utilities,Utilities - Regulated Electric,USA,16850000000.0,20.09,73.21,-1.23,418525
 EWBC,1356,"East West Bancorp, Inc",Financial,Banks - Regional,USA,15740000000.0,12.62,114.4,0.68,243460
-FCVT,1416,First Trust SSI Strategic Convertible Securities ETF,Financial,Exchange Traded Fund,USA,,,42.67,-0.45,80380
 FDTS,1427,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,57.39,-0.74,11
 FGM,1459,First Trust Germany AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,61.35,-0.78,543
 FGNX,1461,FG Nexus Inc,Financial,Asset Management,USA,109030000.0,,2.76,3.57,355671
 FID,1469,First Trust S&P International Dividend Aristocrats ETF,Financial,Exchange Traded Fund,USA,,,20.26,-0.08,10548
 FIXD,1483,First Trust Smith Opportunistic Fixed Income ETF,Financial,Exchange Traded Fund,USA,,,44.21,0.05,132974
-FLN,1494,First Trust Latin America AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,22.3,-2.25,3762
 FMB,1505,First Trust Managed Municipal ETF,Financial,Exchange Traded Fund,USA,,,50.97,0.14,37544
 FNX,1522,First Trust Mid Cap Core AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,127.06,-0.64,2568
 FOXA,1533,Fox Corporation,Communication Services,Entertainment,USA,29560000000.0,15.94,70.81,-0.59,524092
-FSFG,1558,First Savings Financial Group Inc,Financial,Banks - Regional,USA,232130000.0,9.97,33.09,-0.15,2773
+FTEK,1575,Fuel Tech Inc,Industrials,Pollution & Treatment Controls,USA,51430000.0,,1.65,-1.49,19967
+FTGC,1578,First Trust Global Tactical Commodity Strategy Fund,Financial,Exchange Traded Fund,USA,,,22.74,-14.61,581348
 FTXH,1591,First Trust Nasdaq Pharmaceuticals ETF,Financial,Exchange Traded Fund,USA,,,32.43,-1.62,1059
+FWRD,1612,Forward Air Corp,Industrials,Integrated Freight & Logistics,USA,806360000.0,,25.81,-0.44,79661
 FYC,1616,First Trust Small Cap Growth AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,96.73,-0.31,9594
 GAIA,1620,Gaia Inc,Communication Services,Entertainment,USA,102270000.0,,4.07,2.33,40005
 GCBC,1633,Greene County Bancorp Inc,Financial,Banks - Regional,USA,415710000.0,12.32,24.42,1.01,3400
+GLDD,1691,Great Lakes Dredge & Dock Corporation,Industrials,Engineering & Construction,USA,943490000.0,11.7,13.88,-0.11,124641
 GNTX,1721,Gentex Corp,Consumer Cyclical,Auto Parts,USA,5210000000.0,14.08,23.8,0.63,480760
 HBT,1810,HBT Financial Inc,Financial,Banks - Regional,USA,841120000.0,10.81,26.76,-0.85,10260
 HERZ,1833,Herzfeld Credit Income Fund Inc,Financial,Asset Management,USA,41600000.0,32.91,2.59,1.17,6123
@@ -54,47 +55,46 @@ HTLD,1904,"Heartland Express, Inc",Industrials,Trucking,USA,728830000.0,,9.41,-0
 HURN,1917,Huron Consulting Group Inc,Industrials,Consulting Services,USA,3070000000.0,29.88,178.29,-0.06,29103
 HYLS,1933,First Trust Tactical High Yield ETF,Financial,Exchange Traded Fund,USA,,,41.58,-0.1,147339
 ICCC,1973,Immucell Corp,Healthcare,Biotechnology,USA,55180000.0,23.56,6.1,-0.65,167
+ICLN,1978,iShares Global Clean Energy ETF,Financial,Exchange Traded Fund,USA,,,16.25,-1.96,513967
 IEUS,1995,iShares MSCI Europe Small-Cap ETF,Financial,Exchange Traded Fund,USA,,,67.1,-1.06,5355
+IGIB,2003,iShares Trust iShares 5-10 Year Investment Grade Corporate Bond ETF,Financial,Exchange Traded Fund,USA,,,53.93,0.06,1566527
 ILLR,2016,Triller Group Inc,Technology,Software - Application,USA,126990000.0,,0.72,-1.92,75429
 ISBA,2124,Isabella Bank Corp,Financial,Banks - Regional,USA,383810000.0,21.28,52.33,2.46,6004
 ISHP,2126,First Trust S-Network E-Commerce ETF,Financial,Exchange Traded Fund,USA,,,39.06,-0.05,215
-KBWB,2221,Invesco KBW Bank ETF,Financial,Exchange Traded Fund,USA,,,84.31,-0.86,503196
-KBWD,2222,Invesco KBW High Dividend Yield Financial ETF,Financial,Exchange Traded Fund,USA,,,13.87,0.04,82212
+KBWY,2225,Invesco KBW Premium Yield Equity REIT ETF,Financial,Exchange Traded Fund,USA,,,15.66,-0.27,92620
 KRMA,2269,Global X Conscious Companies ETF,Financial,Exchange Traded Fund,USA,,,44.05,-0.41,2684
 LFUS,2343,"Littelfuse, Inc",Technology,Electronic Components,USA,6280000000.0,48.04,252.05,-3.26,58398
+LPRO,2417,Open Lending Corp,Financial,Credit Services,USA,202100000.0,,1.71,1.18,140953
 LVHD,2445,Franklin U.S. Low Volatility High Dividend Index ETF,Financial,Exchange Traded Fund,USA,,,40.35,-0.77,17912
-MBUU,2496,Malibu Boats Inc,Consumer Cyclical,Recreational Vehicles,USA,562950000.0,29.79,29.28,-0.71,37368
 MCRI,2510,"Monarch Casino & Resort, Inc",Consumer Cyclical,Resorts & Casinos,USA,1820000000.0,18.0,99.76,-0.36,24188
 MDLZ,2521,Mondelez International Inc,Consumer Defensive,Confectioners,USA,70140000000.0,20.3,54.35,0.17,3937933
-MNKD,2596,Mannkind Corp,Healthcare,Biotechnology,USA,1830000000.0,63.22,5.96,0.36,808418
 MNSB,2601,MainStreet Bancshares Inc,Financial,Banks - Regional,USA,167990000.0,,21.8,0.23,9811
 MNST,2602,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA,73160000000.0,42.63,74.89,0.05,902360
 MPB,2619,"Mid Penn Bancorp, Inc",Financial,Banks - Regional,USA,741470000.0,13.21,32.17,-0.53,23244
 NDSN,2747,Nordson Corp,Industrials,Specialty Industrial Machinery,USA,13260000000.0,27.68,235.95,-0.77,187641
 NWBI,2866,Northwest Bancshares Inc,Financial,Banks - Regional,USA,1860000000.0,14.47,12.73,-0.35,182282
 NWE,2867,NorthWestern Energy Group Inc,Utilities,Utilities - Regulated Electric,USA,4050000000.0,18.65,65.9,-1.07,82567
-NZAC,2887,SPDR MSCI ACWI Climate Paris Aligned ETF,Financial,Exchange Traded Fund,USA,,,42.37,-0.24,1778
 ODFL,2906,"Old Dominion Freight Line, Inc",Industrials,Trucking,USA,32770000000.0,31.52,156.7,-0.48,567082
 ORKA,2970,Oruka Therapeutics Inc,Healthcare,Biotechnology,USA,1430000000.0,,29.61,-1.63,134089
 OSBC,2977,Old Second Bancorporation Inc,Financial,Banks - Regional,USA,1090000000.0,13.66,20.66,0.1,46644
 OSW,2985,OneSpaWorld Holdings Limited,Consumer Cyclical,Leisure,Bahamas,2180000000.0,30.19,21.41,1.28,140268
-OVLY,2995,Oak Valley Bancorp,Financial,Banks - Regional,USA,257770000.0,10.8,30.73,0.42,2932
-OXLC,2998,Oxford Lane Capital Corp,Financial,Closed-End Fund - Debt,USA,1320000000.0,268.37,13.66,0.15,566733
 PDBC,3053,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Financial,Exchange Traded Fund,USA,,,13.47,-0.77,1706235
 PENN,3068,PENN Entertainment Inc,Consumer Cyclical,Resorts & Casinos,USA,1870000000.0,,14.1,2.06,1264183
 PEP,3069,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA,206170000000.0,28.69,150.79,-0.29,1655948
 PFIS,3083,Peoples Financial Services Corp,Financial,Banks - Regional,USA,528110000.0,9.98,52.84,-0.71,5122
-PGJ,3090,Invesco Golden Dragon China ETF,Financial,Exchange Traded Fund,USA,,,28.96,-0.86,17509
 PHO,3096,Invesco Water Resources ETF,Financial,Exchange Traded Fund,USA,,,71.21,-0.61,19476
 PPH,3163,VanEck Pharmaceutical ETF,Financial,Exchange Traded Fund,USA,,,101.02,-1.58,219767
 PSCH,3207,Invesco S&P SmallCap Health Care ETF,Financial,Exchange Traded Fund,USA,,,45.19,-1.47,4505
+PSEC,3212,Prospect Capital Corp,Financial,Asset Management,USA,1200000000.0,,2.56,-0.58,1645146
 PTNQ,3237,Pacer Trendpilot 100 ETF,Financial,Exchange Traded Fund,USA,,,78.78,-0.05,6835
 QQQ,3300,Invesco QQQ Trust Series 1,Financial,Exchange Traded Fund,USA,,,610.69,0.02,25764725
 QTEC,3324,First Trust NASDAQ-100 Technology Sector Index Fund,Financial,Exchange Traded Fund,USA,,,231.6,-0.09,108641
 RBCAA,3356,"Republic Bancorp, Inc. (KY)",Financial,Banks - Regional,USA,1280000000.0,11.34,73.62,-0.9,6933
 RGEN,3410,Repligen Corp,Healthcare,Medical Instruments & Supplies,USA,8940000000.0,6176.66,158.74,-1.15,208435
 RMNI,3443,Rimini Street Inc,Technology,Software - Application,USA,376190000.0,8.93,4.1,0.24,73777
+RNEM,3451,First Trust Emerging Markets Equity Select ETF,Financial,Exchange Traded Fund,USA,,,54.64,-1.0,16
 ROAD,3458,Construction Partners Inc,Industrials,Engineering & Construction,USA,6350000000.0,61.67,112.49,2.27,176327
+ROP,3466,Roper Technologies Inc,Technology,Software - Application,USA,47660000000.0,30.53,442.74,-0.19,239744
 ROST,3467,"Ross Stores, Inc",Consumer Cyclical,Apparel Retail,USA,59230000000.0,28.62,183.12,-0.63,782936
 SAFT,3509,"Safety Insurance Group, Inc",Financial,Insurance - Property & Casualty,USA,1170000000.0,13.31,78.35,0.23,24716
 SBUX,3536,Starbucks Corp,Consumer Cyclical,Restaurants,USA,97570000000.0,52.66,85.81,0.48,2288547
@@ -104,16 +104,17 @@ SQQQ,3771,ProShares UltraPro Short QQQ -3x Shares,Financial,Exchange Traded Fund
 STRR,3816,Star Equity Holdings Inc,Industrials,Conglomerates,USA,37550000.0,,10.93,-0.64,3166
 TAYD,3878,Taylor Devices Inc,Industrials,Specialty Industrial Machinery,USA,178270000.0,20.88,56.64,-1.41,3413
 TCBK,3891,Trico Bancshares,Financial,Banks - Regional,USA,1620000000.0,14.04,49.79,-0.37,36288
+TILE,3942,Interface Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA,1670000000.0,14.94,28.64,0.75,63740
 TLT,3959,iShares 20+ Year Treasury Bond ETF,Financial,Exchange Traded Fund,USA,,,87.67,0.31,19143282
 TTWO,4048,"Take-Two Interactive Software, Inc",Communication Services,Electronic Gaming & Multimedia,USA,45330000000.0,,245.33,0.32,342520
 UAL,4081,United Airlines Holdings Inc,Industrials,Airlines,USA,35970000000.0,11.13,111.11,3.17,2515648
 USTB,4156,VictoryShares Short-Term Bond ETF,Financial,Exchange Traded Fund,USA,,,50.71,0.04,30036
 VCSH,4187,Vanguard Short-Term Corporate Bond ETF,Financial,Exchange Traded Fund,USA,,,79.81,0.06,1083833
 VRSN,4254,Verisign Inc,Technology,Software - Infrastructure,USA,22430000000.0,28.19,241.97,0.04,124418
-VSMV,4265,VictoryShares US Multi-Factor Minimum Volatility ETF,Financial,Exchange Traded Fund,USA,,,55.13,-0.59,1847
 VTHR,4274,Vanguard Russell 3000 Index ETF,Financial,Exchange Traded Fund,USA,,,299.27,-0.53,3799
 WHF,4328,WhiteHorse Finance Inc,Financial,Asset Management,USA,168880000.0,17.13,7.27,-1.68,88374
 WINA,4333,Winmark Corporation,Consumer Cyclical,Specialty Retail,USA,1570000000.0,39.38,441.71,2.44,46090
+WSBC,4358,"Wesbanco, Inc",Financial,Banks - Regional,USA,3350000000.0,17.7,34.85,-0.85,89959
 WVVI,4379,Willamette Valley Vineyard Inc,Consumer Defensive,Beverages - Wineries & Distilleries,USA,14150000.0,,2.85,1.06,8384
 XRAY,4419,DENTSPLY Sirona Inc,Healthcare,Medical Instruments & Supplies,USA,2250000000.0,,11.3,-0.92,789609
 YLDE,4449,Franklin ClearBridge Enhanced Income ETF,Financial,Exchange Traded Fund,USA,,,54.31,-0.46,2898

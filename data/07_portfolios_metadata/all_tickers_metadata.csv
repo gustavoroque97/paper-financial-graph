@@ -1,0 +1,743 @@
+,Ticker,Company,Sector,Industry
+0,ABTC,American Bitcoin Corp,Financial,Capital Markets
+1,ABVC,ABVC BioPharma Inc,Healthcare,Biotechnology
+2,ACB,Aurora Cannabis Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+3,ACET,Adicet Bio Inc,Healthcare,Biotechnology
+4,ACTG,Acacia Research Corp,Industrials,Business Equipment & Supplies
+5,AHG,Akso Health Group ADR,Healthcare,Medical Distribution
+6,AIRT,Air T Inc,Industrials,Conglomerates
+7,AIXC,AIxCrypto Holdings Inc,Technology,Software - Infrastructure
+8,AKRO,Akero Therapeutics Inc,Healthcare,Biotechnology
+9,ALDX,Aldeyra Therapeutics Inc,Healthcare,Biotechnology
+10,ALM,Almonty Industries Inc,Basic Materials,Other Industrial Metals & Mining
+11,ALOT,AstroNova Inc,Technology,Computer Hardware
+12,ALRM,Alarm.com Holdings Inc,Technology,Software - Application
+13,ALT,Altimmune Inc,Healthcare,Biotechnology
+14,AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials
+15,ANDE,Andersons Inc,Consumer Defensive,Food Distribution
+16,ANIX,Anixa Biosciences Inc,Healthcare,Biotechnology
+17,AOSL,Alpha & Omega Semiconductor Ltd,Technology,Semiconductors
+18,APLS,Apellis Pharmaceuticals Inc,Healthcare,Biotechnology
+19,ASMB,Assembly Biosciences Inc,Healthcare,Biotechnology
+20,ASRT,Assertio Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+21,ATLC,Atlanticus Holdings Corp,Financial,Credit Services
+22,ATYR,Atyr Pharma Inc,Healthcare,Biotechnology
+23,AVDL,Avadel Pharmaceuticals plc,Healthcare,Drug Manufacturers - Specialty & Generic
+24,AXSM,Axsome Therapeutics Inc,Healthcare,Biotechnology
+25,BEEM,Beam Global,Technology,Solar
+26,BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General
+27,BITF,Bitfarms Ltd,Financial,Capital Markets
+28,BLRX,Bioline Rx Ltd ADR,Healthcare,Biotechnology
+29,BMRA,Biomerica Inc,Healthcare,Medical Devices
+30,BOOM,DMC Global Inc,Industrials,Conglomerates
+31,BRTX,BioRestorative Therapies Inc,Healthcare,Biotechnology
+32,BYRN,Byrna Technologies Inc,Industrials,Aerospace & Defense
+33,CDTX,Cidara Therapeutics Inc,Healthcare,Biotechnology
+34,CENT,Central Garden & Pet Co,Consumer Defensive,Packaged Foods
+35,CENTA,Central Garden & Pet Co,Consumer Defensive,Packaged Foods
+36,CGC,Canopy Growth Corporation,Healthcare,Drug Manufacturers - Specialty & Generic
+37,CLGN,CollPlant Biotechnologies Ltd,Healthcare,Biotechnology
+38,CLWT,"Euro Tech Holdings Co., Ltd",Industrials,Pollution & Treatment Controls
+39,COMM,CommScope Holding Company Inc,Technology,Communication Equipment
+40,CPRX,Catalyst Pharmaceuticals Inc,Healthcare,Biotechnology
+41,CPSH,CPS Technologies Corporation,Technology,Electronic Components
+42,CRESY,Cresud ADR,Industrials,Conglomerates
+43,CRMD,CorMedix Inc,Healthcare,Biotechnology
+44,CRNT,Ceragon Networks Ltd,Technology,Communication Equipment
+45,CRNX,Crinetics Pharmaceuticals Inc,Healthcare,Biotechnology
+46,CUE,Cue Biopharma Inc,Healthcare,Biotechnology
+47,CVV,CVD Equipment Corp,Industrials,Specialty Industrial Machinery
+48,DDOG,Datadog Inc,Technology,Software - Application
+49,DHC,Diversified Healthcare Trust,Real Estate,REIT - Healthcare Facilities
+50,DUOT,Duos Technologies Group Inc,Technology,Software - Application
+51,ELTK,Eltek Ltd,Technology,Electronic Components
+52,ELVA,"Electrovaya, Inc",Industrials,Electrical Equipment & Parts
+53,ENPH,Enphase Energy Inc,Technology,Solar
+54,ESPR,Esperion Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+55,EVER,EverQuote Inc,Communication Services,Internet Content & Information
+56,EVGN,Evogene Ltd,Healthcare,Biotechnology
+57,EZPW,"EZCorp, Inc",Financial,Credit Services
+58,FGEN,FibroGen Inc,Healthcare,Biotechnology
+59,FIVN,Five9 Inc,Technology,Software - Infrastructure
+60,FKWL,Franklin Wireless Corp,Technology,Communication Equipment
+61,FLNT,Fluent Inc,Communication Services,Advertising Agencies
+62,FORTY,Formula Systems (1985) Ltd. ADR,Technology,Information Technology Services
+63,FRPT,Freshpet Inc,Consumer Defensive,Packaged Foods
+64,GDC,GD Culture Group Limited,Communication Services,Electronic Gaming & Multimedia
+65,GIFI,"Gulf Island Fabrication, Inc",Industrials,Metal Fabrication
+66,GWAV,Greenwave Technology Solutions Inc,Industrials,Waste Management
+67,HALO,Halozyme Therapeutics Inc,Healthcare,Biotechnology
+68,HBIO,Harvard Bioscience Inc,Healthcare,Medical Instruments & Supplies
+69,HIND,Vyome Holdings Inc,Healthcare,Biotechnology
+70,HNRG,Hallador Energy Co,Energy,Thermal Coal
+71,IBIO,iBio Inc,Healthcare,Biotechnology
+72,ICUI,"ICU Medical, Inc",Healthcare,Medical Instruments & Supplies
+73,IFRX,InflaRx N.V,Healthcare,Biotechnology
+74,INO,Inovio Pharmaceuticals Inc,Healthcare,Biotechnology
+75,IPHA,Innate Pharma ADR,Healthcare,Biotechnology
+76,IROQ,IF Bancorp Inc,Financial,Banks - Regional
+77,KALA,Kala Bio Inc,Healthcare,Biotechnology
+78,KG,Kestrel Group Ltd,Financial,Insurance Brokers
+79,KLXE,KLX Energy Services Holdings Inc,Energy,Oil & Gas Equipment & Services
+80,KMB,Kimberly-Clark Corp,Consumer Defensive,Household & Personal Products
+81,KPTI,Karyopharm Therapeutics Inc,Healthcare,Biotechnology
+82,KRRO,Korro Bio Inc,Healthcare,Biotechnology
+83,LEGH,Legacy Housing Corp,Consumer Cyclical,Residential Construction
+84,LFMD,LifeMD Inc,Healthcare,Health Information Services
+85,LINK,Interlink Electronics,Technology,Electronic Components
+86,LIXT,Lixte Biotechnology Holdings Inc,Healthcare,Biotechnology
+87,MDWD,MediWound Ltd,Healthcare,Biotechnology
+88,MGIC,Magic Software Enterprises Ltd,Technology,Information Technology Services
+89,MGYR,Magyar Bancorp Inc,Financial,Banks - Regional
+90,MLKN,MillerKnoll Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+91,MOGO,Mogo Inc,Technology,Software - Infrastructure
+92,MRSN,Mersana Therapeutics Inc,Healthcare,Biotechnology
+93,MRUS,Merus N.V,Healthcare,Biotechnology
+94,NAII,"Natural Alternatives International, Inc",Consumer Defensive,Packaged Foods
+95,NMIH,NMI Holdings Inc,Financial,Insurance - Specialty
+96,NNDM,Nano Dimension Ltd ADR,Technology,Computer Hardware
+97,NSPR,InspireMD Inc,Healthcare,Medical Devices
+98,OLB,OLB Group Inc,Technology,Software - Infrastructure
+99,OTLK,Outlook Therapeutics Inc,Healthcare,Biotechnology
+100,PACB,Pacific Biosciences of California Inc,Healthcare,Medical Devices
+101,PAVM,PAVmed Inc,Healthcare,Medical Devices
+102,PEBK,Peoples Bancorp Of North Carolina Inc,Financial,Banks - Regional
+103,PERI,Perion Network Ltd,Communication Services,Internet Content & Information
+104,PETS,"Petmed Express, Inc",Healthcare,Pharmaceutical Retailers
+105,PRPH,ProPhase Labs Inc,Healthcare,Diagnostics & Research
+106,PRQR,ProQR Therapeutics N.V,Healthcare,Biotechnology
+107,PRTS,CarParts.com Inc,Consumer Cyclical,Auto Parts
+108,PSIX,Power Solutions International Inc,Industrials,Specialty Industrial Machinery
+109,PSNL,Personalis Inc,Healthcare,Diagnostics & Research
+110,PSTV,Plus Therapeutics Inc,Healthcare,Biotechnology
+111,PTGX,Protagonist Therapeutics Inc,Healthcare,Biotechnology
+112,PTON,Peloton Interactive Inc,Consumer Cyclical,Leisure
+113,PXLW,Pixelworks Inc,Technology,Semiconductors
+114,QMCO,Quantum Corp,Technology,Computer Hardware
+115,QNST,QuinStreet Inc,Communication Services,Advertising Agencies
+116,QRVO,Qorvo Inc,Technology,Semiconductors
+117,RCAT,Red Cat Holdings Inc,Industrials,Aerospace & Defense
+118,RNTX,Rein Therapeutics Inc,Healthcare,Biotechnology
+119,ROCK,Gibraltar Industries Inc,Industrials,Building Products & Equipment
+120,RVYL,Ryvyl Inc,Technology,Software - Infrastructure
+121,SAVA,Cassava Sciences Inc,Healthcare,Biotechnology
+122,SBET,SharpLink Gaming Inc,Consumer Cyclical,Gambling
+123,SGBX,Safe & Green Holdings Corp,Industrials,Metal Fabrication
+124,SGLY,Singularity Future Technology Ltd,Industrials,Integrated Freight & Logistics
+125,SHIP,Seanergy Maritime Holdings Corp,Industrials,Marine Shipping
+126,SLNO,Soleno Therapeutics Inc,Healthcare,Biotechnology
+127,SNBR,Sleep Number Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+128,SONM,Sonim Technologies Inc,Technology,Communication Equipment
+129,SPWH,Sportsman's Warehouse Holdings Inc,Consumer Cyclical,Specialty Retail
+130,STIM,Neuronetics Inc,Healthcare,Medical Devices
+131,SURG,Surgepays Inc,Communication Services,Telecom Services
+132,TILE,Interface Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+133,TLSA,Tiziana Life Sciences Ltd,Healthcare,Biotechnology
+134,TNXP,Tonix Pharmaceuticals Holding Corp,Healthcare,Biotechnology
+135,TOMZ,TOMI Environmental Solutions Inc,Industrials,Pollution & Treatment Controls
+136,TRMD,Torm Plc,Energy,Oil & Gas Midstream
+137,TRVG,Trivago NV ADR,Communication Services,Internet Content & Information
+138,TRVI,Trevi Therapeutics Inc,Healthcare,Biotechnology
+139,UNIT,Uniti Group Inc,Real Estate,REIT - Specialty
+140,UONE,Urban One Inc,Communication Services,Broadcasting
+141,UXIN,Uxin Ltd ADR,Consumer Cyclical,Auto & Truck Dealerships
+142,VIR,Vir Biotechnology Inc,Healthcare,Biotechnology
+143,VIRC,Virco Manufacturing Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+144,VKTX,Viking Therapeutics Inc,Healthcare,Biotechnology
+145,VMD,Viemed Healthcare Inc,Healthcare,Medical Devices
+146,VRCA,Verrica Pharmaceuticals Inc,Healthcare,Biotechnology
+147,VRDN,Viridian Therapeutics Inc,Healthcare,Biotechnology
+148,VTRS,Viatris Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+149,WKSP,Worksport Ltd,Consumer Cyclical,Auto Parts
+150,WORX,SCWorx Corp,Healthcare,Health Information Services
+151,WVE,Wave Life Sciences Ltd,Healthcare,Biotechnology
+152,XBIO,Xenetic Biosciences Inc,Healthcare,Biotechnology
+153,XOMA,XOMA Royalty Corp,Healthcare,Biotechnology
+154,Z,Zillow Group Inc,Communication Services,Internet Content & Information
+155,ZVRA,Zevra Therapeutics Inc,Healthcare,Biotechnology
+0,ACWX,iShares MSCI ACWI ex US ETF,Financial,Exchange Traded Fund
+1,AGNG,Global X Aging Population ETF,Financial,Exchange Traded Fund
+2,AIA,iShares Asia 50 ETF,Financial,Exchange Traded Fund
+3,AROW,Arrow Financial Corp,Financial,Banks - Regional
+4,BATRA,Atlanta Braves Holdings Inc,Communication Services,Entertainment
+5,BCBP,BCB Bancorp Inc (NJ),Financial,Banks - Regional
+6,BNDX,Vanguard Total International Bond ETF,Financial,Exchange Traded Fund
+7,CALM,"Cal-Maine Foods, Inc",Consumer Defensive,Farm Products
+8,CARZ,First Trust S-Network Future Vehicles & Technology ETF,Financial,Exchange Traded Fund
+9,CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,Financial,Exchange Traded Fund
+10,COLB,"Columbia Banking System, Inc",Financial,Banks - Regional
+11,COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,Financial,Exchange Traded Fund
+12,CPB,Campbells Co,Consumer Defensive,Packaged Foods
+13,CYRX,CryoPort Inc,Industrials,Integrated Freight & Logistics
+14,DENN,Denny's Corp,Consumer Cyclical,Restaurants
+15,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Financial,Exchange Traded Fund
+16,DRH,Diamondrock Hospitality Co,Real Estate,REIT - Hotel & Motel
+17,ENSG,Ensign Group Inc,Healthcare,Medical Care Facilities
+18,ENZL,iShares MSCI New Zealand ETF,Financial,Exchange Traded Fund
+19,ERIC,Telefonaktiebolaget L M Ericsson ADR,Technology,Communication Equipment
+20,ERII,Energy Recovery Inc,Industrials,Pollution & Treatment Controls
+21,ESPO,VanEck Video Gaming and eSports ETF,Financial,Exchange Traded Fund
+22,EVO,Evotec SE ADR,Healthcare,Drug Manufacturers - Specialty & Generic
+23,FCBC,First Community Bankshares Inc,Financial,Banks - Regional
+24,FER,Ferrovial S.E,Industrials,Engineering & Construction
+25,FEX,First Trust Large Cap Core AlphaDEX Fund,Financial,Exchange Traded Fund
+26,FHB,First Hawaiian INC,Financial,Banks - Regional
+27,FIEE,FiEE Inc,Technology,Communication Equipment
+28,FJP,First Trust Japan AlphaDEX Fund,Financial,Exchange Traded Fund
+29,FKU,First Trust United Kingdom AlphaDEX Fund,Financial,Exchange Traded Fund
+30,FNY,First Trust Mid Cap Growth AlphaDEX Fund,Financial,Exchange Traded Fund
+31,FORM,FormFactor Inc,Technology,Semiconductor Equipment & Materials
+32,FTGC,First Trust Global Tactical Commodity Strategy Fund,Financial,Exchange Traded Fund
+33,FYT,First Trust Small Cap Value AlphaDEX Fund,Financial,Exchange Traded Fund
+34,GECC,Great Elm Capital Corp,Financial,Asset Management
+35,GLPI,Gaming and Leisure Properties Inc,Real Estate,REIT - Specialty
+36,GSHD,Goosehead Insurance Inc,Financial,Insurance Brokers
+37,HBAN,"Huntington Bancshares, Inc",Financial,Banks - Regional
+38,HBNC,Horizon Bancorp Inc (IN),Financial,Banks - Regional
+39,IBRX,ImmunityBio Inc,Healthcare,Biotechnology
+40,IDN,Intellicheck Inc,Technology,Software - Application
+41,IFGL,iShares International Developed Real Estate ETF,Financial,Exchange Traded Fund
+42,IVAL,Alpha Architect International Quantitative Value ETF,Financial,Exchange Traded Fund
+43,JBHT,"J.B. Hunt Transport Services, Inc",Industrials,Integrated Freight & Logistics
+44,KRNY,Kearny Financial Corp,Financial,Banks - Regional
+45,KTCC,Key Tronic Corp,Technology,Computer Hardware
+46,LAZR,Luminar Technologies Inc,Consumer Cyclical,Auto Parts
+47,LFVN,Lifevantage Corporation,Consumer Defensive,Packaged Foods
+48,LOAN,Manhattan Bridge Capital Inc,Real Estate,REIT - Mortgage
+49,LPRO,Open Lending Corp,Financial,Credit Services
+50,LULU,Lululemon Athletica inc,Consumer Cyclical,Apparel Retail
+51,MANH,"Manhattan Associates, Inc",Technology,Software - Application
+52,MASI,Masimo Corp,Healthcare,Medical Devices
+53,MDB,MongoDB Inc,Technology,Software - Infrastructure
+54,MKTX,MarketAxess Holdings Inc,Financial,Capital Markets
+55,MU,Micron Technology Inc,Technology,Semiconductors
+56,NRIM,"Northrim Bancorp, Inc",Financial,Banks - Regional
+57,NTRA,Natera Inc,Healthcare,Diagnostics & Research
+58,NTRS,Northern Trust Corp,Financial,Asset Management
+59,NXTG,First Trust Indxx NextG ETF,Financial,Exchange Traded Fund
+60,OCFC,OceanFirst Financial Corp,Financial,Banks - Regional
+61,OCSL,Oaktree Specialty Lending Corp,Financial,Asset Management
+62,PEY,Invesco High Yield Equity Dividend Achievers ETF,Financial,Exchange Traded Fund
+63,PRN,Invesco Dorsey Wright Industrials Momentum ETF,Financial,Exchange Traded Fund
+64,PRPO,Precipio Inc,Healthcare,Diagnostics & Research
+65,PSCI,Invesco S&P SmallCap Industrials ETF,Financial,Exchange Traded Fund
+66,PSCM,Invesco S&P SmallCap Materials ETF,Financial,Exchange Traded Fund
+67,PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,Financial,Exchange Traded Fund
+68,PSEC,Prospect Capital Corp,Financial,Asset Management
+69,PTF,Invesco Dorsey Wright Technology Momentum ETF,Financial,Exchange Traded Fund
+70,PUI,Invesco Dorsey Wright Utilities Momentum ETF,Financial,Exchange Traded Fund
+71,RFDI,First Trust RiverFront Dynamic Developed International ETF,Financial,Exchange Traded Fund
+72,RICK,RCI Hospitality Holdings Inc,Consumer Cyclical,Restaurants
+73,RNEM,First Trust Emerging Markets Equity Select ETF,Financial,Exchange Traded Fund
+74,RPAY,Repay Holdings Corporation,Technology,Software - Infrastructure
+75,SBRA,Sabra Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities
+76,SNSR,Global X Funds Global X Internet of Things ETF,Financial,Exchange Traded Fund
+77,UIVM,VictoryShares Emerging Markets Value Momentum ETF,Financial,Exchange Traded Fund
+78,UPWK,Upwork Inc,Communication Services,Internet Content & Information
+79,USLM,United States Lime & Minerals Inc,Basic Materials,Building Materials
+80,VOD,Vodafone Group plc ADR,Communication Services,Telecom Services
+81,VONG,Vanguard Russell 1000 Growth Index ETF,Financial,Exchange Traded Fund
+82,VSDA,VictoryShares Dividend Accelerator ETF,Financial,Exchange Traded Fund
+83,WDFC,WD-40 Co,Basic Materials,Specialty Chemicals
+84,WING,Wingstop Inc,Consumer Cyclical,Restaurants
+85,WTW,Willis Towers Watson Public Limited Co,Financial,Insurance Brokers
+86,WYNN,Wynn Resorts Ltd,Consumer Cyclical,Resorts & Casinos
+0,ADEA,Adeia Inc,Technology,Software - Application
+1,ADP,Automatic Data Processing Inc,Technology,Software - Application
+2,ADPT,Adaptive Biotechnologies Corp,Healthcare,Biotechnology
+3,AGAE,Allied Gaming & Entertainment Inc,Communication Services,Entertainment
+4,AGIO,Agios Pharmaceuticals Inc,Healthcare,Biotechnology
+5,AHCO,AdaptHealth Corp,Healthcare,Medical Devices
+6,ALGN,"Align Technology, Inc",Healthcare,Medical Instruments & Supplies
+7,ALNT,Allient Inc,Technology,Electronic Components
+8,ALNY,Alnylam Pharmaceuticals Inc,Healthcare,Biotechnology
+9,ANAB,AnaptysBio Inc,Healthcare,Biotechnology
+10,AQMS,Aqua Metals Inc,Industrials,Waste Management
+11,ARCT,Arcturus Therapeutics Holdings Inc,Healthcare,Biotechnology
+12,ARQ,Arq Inc,Industrials,Pollution & Treatment Controls
+13,ASPS,Altisource Portfolio Solutions S.A,Real Estate,Real Estate Services
+14,ATRO,Astronics Corp,Industrials,Aerospace & Defense
+15,BAND,Bandwidth Inc,Technology,Software - Infrastructure
+16,BCRX,Biocryst Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+17,BLDP,Ballard Power Systems Inc,Industrials,Electrical Equipment & Parts
+18,BNC,CEA Industries Inc,Industrials,Farm & Heavy Construction Machinery
+19,BNTC,Benitec Biopharma Inc,Healthcare,Biotechnology
+20,BTCS,BTCS Inc,Financial,Capital Markets
+21,BYND,Beyond Meat Inc,Consumer Defensive,Packaged Foods
+22,CENN,Cenntro Inc,Consumer Cyclical,Auto Manufacturers
+23,CENX,Century Aluminum Co,Basic Materials,Aluminum
+24,CHRW,"C.H. Robinson Worldwide, Inc",Industrials,Integrated Freight & Logistics
+25,CNXN,"PC Connection, Inc",Technology,Electronics & Computer Distribution
+26,COLL,Collegium Pharmaceutical Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+27,CREX,Creative Realities Inc,Technology,Software - Application
+28,CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology
+29,CRVO,CervoMed Inc,Healthcare,Biotechnology
+30,CRWS,"Crown Crafts, Inc",Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+31,CTRM,Castor Maritime Inc,Industrials,Marine Shipping
+32,CYPH,Cypherpunk Technologies Inc,Healthcare,Biotechnology
+33,DLTR,Dollar Tree Inc,Consumer Defensive,Discount Stores
+34,DNTH,Dianthus Therapeutics Inc,Healthcare,Biotechnology
+35,DXLG,Destination XL Group Inc,Consumer Cyclical,Apparel Retail
+36,DXR,Daxor Corp,Healthcare,Medical Instruments & Supplies
+37,ECPG,"Encore Capital Group, Inc",Financial,Credit Services
+38,EDIT,Editas Medicine Inc,Healthcare,Biotechnology
+39,EDRY,EuroDry Ltd,Industrials,Marine Shipping
+40,ENTX,Entera Bio Ltd,Healthcare,Biotechnology
+41,FWRD,Forward Air Corp,Industrials,Integrated Freight & Logistics
+42,GGAL,Grupo Financiero Galicia ADR,Financial,Banks - Regional
+43,GIII,G-III Apparel Group Ltd,Consumer Cyclical,Apparel Manufacturing
+44,GREE,Greenidge Generation Holdings Inc,Financial,Capital Markets
+45,HAIN,Hain Celestial Group Inc,Consumer Defensive,Packaged Foods
+46,HFBL,Home Federal Bancorp Inc (Louisiana),Financial,Banks - Regional
+47,HNNA,Hennessy Advisors Inc,Financial,Asset Management
+48,HROW,Harrow Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+49,HURA,TuHURA Biosciences Inc,Healthcare,Biotechnology
+50,HURC,"Hurco Companies, Inc",Industrials,Specialty Industrial Machinery
+51,HYPD,Hyperion DeFi Inc,Healthcare,Biotechnology
+52,INTZ,Intrusion Inc,Technology,Software - Infrastructure
+53,IOVA,Iovance Biotherapeutics Inc,Healthcare,Biotechnology
+54,IPM,Intelligent Protection Management Corp,Technology,Software - Application
+55,ITIC,Investors Title Co,Financial,Insurance - Specialty
+56,KALU,Kaiser Aluminum Corp,Basic Materials,Aluminum
+57,KALV,KalVista Pharmaceuticals Inc,Healthcare,Biotechnology
+58,KELYA,"Kelly Services, Inc",Industrials,Staffing & Employment Services
+59,KHC,Kraft Heinz Co,Consumer Defensive,Packaged Foods
+60,KOSS,Koss Corp,Technology,Consumer Electronics
+61,KPRX,Kiora Pharmaceuticals Inc,Healthcare,Biotechnology
+62,LASR,nLIGHT Inc,Technology,Semiconductors
+63,LOCO,El Pollo Loco Holdings Inc,Consumer Cyclical,Restaurants
+64,LOOP,Loop Industries Inc,Basic Materials,Specialty Chemicals
+65,LX,LexinFintech Holdings Ltd ADR,Financial,Credit Services
+66,MCHX,Marchex Inc,Communication Services,Advertising Agencies
+67,MNRO,Monro Inc,Consumer Cyclical,Auto Parts
+68,MRNA,Moderna Inc,Healthcare,Biotechnology
+69,NAAS,Naas Technology Inc ADR,Consumer Cyclical,Specialty Retail
+70,NISN,NiSun International Enterprise Development Group Co Ltd,Industrials,Specialty Business Services
+71,NIU,Niu Technologies ADR,Consumer Cyclical,Auto Manufacturers
+72,NIXX,Nixxy Inc,Industrials,Staffing & Employment Services
+73,NNBR,NN Inc,Industrials,Conglomerates
+74,NOTV,Inotiv Inc,Healthcare,Diagnostics & Research
+75,NTLA,Intellia Therapeutics Inc,Healthcare,Biotechnology
+76,OCC,Optical Cable Corp,Technology,Communication Equipment
+77,OCGN,Ocugen Inc,Healthcare,Biotechnology
+78,OMCC,Old Market Capital Corp,Financial,Credit Services
+79,OMEX,"Odyssey Marine Exploration, Inc",Basic Materials,Other Industrial Metals & Mining
+80,OPRA,Opera Ltd ADR,Communication Services,Internet Content & Information
+81,ORMP,"Oramed Pharmaceuticals, Inc",Healthcare,Biotechnology
+82,OVBC,Ohio Valley Banc Corp,Financial,Banks - Regional
+83,OVID,Ovid Therapeutics Inc,Healthcare,Biotechnology
+84,PAHC,Phibro Animal Health Corp,Healthcare,Drug Manufacturers - Specialty & Generic
+85,PBYI,Puma Biotechnology Inc,Healthcare,Biotechnology
+86,PCSA,Processa Pharmaceuticals Inc,Healthcare,Biotechnology
+87,PDFS,PDF Solutions Inc,Technology,Software - Application
+88,POLA,Polar Power Inc,Industrials,Electrical Equipment & Parts
+89,PPBT,Purple Biotech Ltd ADR,Healthcare,Biotechnology
+90,PRTH,Priority Technology Holdings Inc,Technology,Software - Infrastructure
+91,QCLS,Q/C Technologies Inc,Technology,Computer Hardware
+92,QNRX,Quoin Pharmaceuticals Ltd ADR,Healthcare,Biotechnology
+93,QURE,uniQure N.V,Healthcare,Biotechnology
+94,RDNW,RideNow Group Inc,Consumer Cyclical,Auto & Truck Dealerships
+95,RFIL,RF Industries Ltd,Industrials,Electrical Equipment & Parts
+96,RGNX,Regenxbio Inc,Healthcare,Biotechnology
+97,RIGL,Rigel Pharmaceuticals,Healthcare,Biotechnology
+98,RNAC,Cartesian Therapeutics Inc,Healthcare,Biotechnology
+99,RYAAY,Ryanair Holdings Plc ADR,Industrials,Airlines
+100,SFBC,Sound Financial Bancorp Inc,Financial,Banks - Regional
+101,SGA,"Saga Communications, Inc",Communication Services,Broadcasting
+102,SHEN,Shenandoah Telecommunications Co,Communication Services,Telecom Services
+103,SLGL,Sol-Gel Technologies Ltd,Healthcare,Biotechnology
+104,SMCI,Super Micro Computer Inc,Technology,Computer Hardware
+105,SSYS,Stratasys Ltd,Technology,Computer Hardware
+106,STAA,Staar Surgical Co,Healthcare,Medical Instruments & Supplies
+107,TATT,TAT Technologies Ltd,Industrials,Aerospace & Defense
+108,TBBK,Bancorp Inc,Financial,Banks - Regional
+109,TBRG,TruBridge Inc,Healthcare,Health Information Services
+110,TCRT,Alaunos Therapeutics Inc,Healthcare,Biotechnology
+111,TECX,Tectonic Therapeutic Inc,Healthcare,Biotechnology
+112,TREE,LendingTree Inc,Financial,Financial Conglomerates
+113,TRUP,Trupanion Inc,Financial,Insurance - Property & Casualty
+114,TTGT,Techtarget Inc,Technology,Information Technology Services
+115,UFPI,UFP Industries Inc,Basic Materials,Lumber & Wood Production
+116,UOKA,MDJM Ltd,Consumer Cyclical,Lodging
+117,VIOT,Viomi Technology Co Ltd ADR,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+118,VIVS,VivoSim Labs Inc,Healthcare,Biotechnology
+119,VNOM,Viper Energy Inc,Energy,Oil & Gas Midstream
+120,VSTM,Verastem Inc,Healthcare,Biotechnology
+121,VUZI,Vuzix Corporation,Technology,Consumer Electronics
+122,WFCF,Where Food Comes From Inc,Industrials,Specialty Business Services
+123,XBIT,XBiotech Inc,Healthcare,Biotechnology
+124,XWIN,XMax Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+125,XXII,22nd Century Group Inc,Consumer Defensive,Tobacco
+126,ZBRA,Zebra Technologies Corp,Technology,Communication Equipment
+127,ZKIN,ZK International Group Co Ltd,Basic Materials,Steel
+128,ZYXI,Zynex Inc,Healthcare,Medical Distribution
+0,AEHL,Antelope Enterprise Holdings Ltd,Industrials,Building Products & Equipment
+1,AMCX,AMC Networks Inc,Communication Services,Entertainment
+2,AMSC,American Superconductor Corp,Industrials,Specialty Industrial Machinery
+3,ARCC,Ares Capital Corp,Financial,Asset Management
+4,ARTW,Art's-way Manufacturing Co. Inc,Industrials,Farm & Heavy Construction Machinery
+5,ASTE,Astec Industries Inc,Industrials,Farm & Heavy Construction Machinery
+6,ATLO,Ames National Corp,Financial,Banks - Regional
+7,BILI,Bilibili Inc ADR,Communication Services,Internet Content & Information
+8,BND,Vanguard Total Bond Market ETF,Financial,Exchange Traded Fund
+9,BWFG,Bankwell Financial Group Inc,Financial,Banks - Regional
+10,CACC,Credit Acceptance Corp,Financial,Credit Services
+11,CBRL,Cracker Barrel Old Country Store Inc,Consumer Cyclical,Restaurants
+12,CDNA,Caredx Inc,Healthcare,Diagnostics & Research
+13,CHGX,Stance Sustainable Beta ETF,Financial,Exchange Traded Fund
+14,CHI,Calamos Convertible Opportunities and Income Fund,Financial,Closed-End Fund - Debt
+15,CLBK,"Columbia Financial, Inc",Financial,Banks - Regional
+16,CMCO,Columbus Mckinnon Corp,Industrials,Farm & Heavy Construction Machinery
+17,COLM,Columbia Sportswear Co,Consumer Cyclical,Apparel Manufacturing
+18,COST,Costco Wholesale Corp,Consumer Defensive,Discount Stores
+19,CSCO,"Cisco Systems, Inc",Technology,Communication Equipment
+20,CSQ,Calamos Strategic Total Return Fund,Financial,Closed-End Fund - Debt
+21,CTAS,Cintas Corporation,Industrials,Specialty Business Services
+22,CVBF,CVB Financial Corp,Financial,Banks - Regional
+23,EBMT,Eagle Bancorp Montana Inc,Financial,Banks - Regional
+24,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,Financial,Exchange Traded Fund
+25,EEFT,Euronet Worldwide Inc,Technology,Software - Infrastructure
+26,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,Financial,Exchange Traded Fund
+27,EVRG,Evergy Inc,Utilities,Utilities - Regulated Electric
+28,EWBC,"East West Bancorp, Inc",Financial,Banks - Regional
+29,FCVT,First Trust SSI Strategic Convertible Securities ETF,Financial,Exchange Traded Fund
+30,FDTS,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,Financial,Exchange Traded Fund
+31,FGM,First Trust Germany AlphaDEX Fund,Financial,Exchange Traded Fund
+32,FGNX,FG Nexus Inc,Financial,Asset Management
+33,FID,First Trust S&P International Dividend Aristocrats ETF,Financial,Exchange Traded Fund
+34,FIXD,First Trust Smith Opportunistic Fixed Income ETF,Financial,Exchange Traded Fund
+35,FLN,First Trust Latin America AlphaDEX Fund,Financial,Exchange Traded Fund
+36,FMB,First Trust Managed Municipal ETF,Financial,Exchange Traded Fund
+37,FNX,First Trust Mid Cap Core AlphaDEX Fund,Financial,Exchange Traded Fund
+38,FOXA,Fox Corporation,Communication Services,Entertainment
+39,FSFG,First Savings Financial Group Inc,Financial,Banks - Regional
+40,FTXH,First Trust Nasdaq Pharmaceuticals ETF,Financial,Exchange Traded Fund
+41,FYC,First Trust Small Cap Growth AlphaDEX Fund,Financial,Exchange Traded Fund
+42,GAIA,Gaia Inc,Communication Services,Entertainment
+43,GCBC,Greene County Bancorp Inc,Financial,Banks - Regional
+44,GNTX,Gentex Corp,Consumer Cyclical,Auto Parts
+45,HBT,HBT Financial Inc,Financial,Banks - Regional
+46,HERZ,Herzfeld Credit Income Fund Inc,Financial,Asset Management
+47,HGBL,Heritage Global Inc,Financial,Capital Markets
+48,HNDL,Nasdaq 7HANDL Index ETF 1.23x Shares,Financial,Exchange Traded Fund
+49,HST,Host Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel
+50,HTBK,Heritage Commerce Corp,Financial,Banks - Regional
+51,HTLD,"Heartland Express, Inc",Industrials,Trucking
+52,HURN,Huron Consulting Group Inc,Industrials,Consulting Services
+53,HYLS,First Trust Tactical High Yield ETF,Financial,Exchange Traded Fund
+54,ICCC,Immucell Corp,Healthcare,Biotechnology
+55,IEUS,iShares MSCI Europe Small-Cap ETF,Financial,Exchange Traded Fund
+56,ILLR,Triller Group Inc,Technology,Software - Application
+57,ISBA,Isabella Bank Corp,Financial,Banks - Regional
+58,ISHP,First Trust S-Network E-Commerce ETF,Financial,Exchange Traded Fund
+59,KBWB,Invesco KBW Bank ETF,Financial,Exchange Traded Fund
+60,KBWD,Invesco KBW High Dividend Yield Financial ETF,Financial,Exchange Traded Fund
+61,KRMA,Global X Conscious Companies ETF,Financial,Exchange Traded Fund
+62,LFUS,"Littelfuse, Inc",Technology,Electronic Components
+63,LVHD,Franklin U.S. Low Volatility High Dividend Index ETF,Financial,Exchange Traded Fund
+64,MBUU,Malibu Boats Inc,Consumer Cyclical,Recreational Vehicles
+65,MCRI,"Monarch Casino & Resort, Inc",Consumer Cyclical,Resorts & Casinos
+66,MDLZ,Mondelez International Inc,Consumer Defensive,Confectioners
+67,MNKD,Mannkind Corp,Healthcare,Biotechnology
+68,MNSB,MainStreet Bancshares Inc,Financial,Banks - Regional
+69,MNST,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic
+70,MPB,"Mid Penn Bancorp, Inc",Financial,Banks - Regional
+71,NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery
+72,NWBI,Northwest Bancshares Inc,Financial,Banks - Regional
+73,NWE,NorthWestern Energy Group Inc,Utilities,Utilities - Regulated Electric
+74,NZAC,SPDR MSCI ACWI Climate Paris Aligned ETF,Financial,Exchange Traded Fund
+75,ODFL,"Old Dominion Freight Line, Inc",Industrials,Trucking
+76,ORKA,Oruka Therapeutics Inc,Healthcare,Biotechnology
+77,OSBC,Old Second Bancorporation Inc,Financial,Banks - Regional
+78,OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,Leisure
+79,OVLY,Oak Valley Bancorp,Financial,Banks - Regional
+80,OXLC,Oxford Lane Capital Corp,Financial,Closed-End Fund - Debt
+81,PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Financial,Exchange Traded Fund
+82,PENN,PENN Entertainment Inc,Consumer Cyclical,Resorts & Casinos
+83,PEP,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic
+84,PFIS,Peoples Financial Services Corp,Financial,Banks - Regional
+85,PGJ,Invesco Golden Dragon China ETF,Financial,Exchange Traded Fund
+86,PHO,Invesco Water Resources ETF,Financial,Exchange Traded Fund
+87,PPH,VanEck Pharmaceutical ETF,Financial,Exchange Traded Fund
+88,PSCH,Invesco S&P SmallCap Health Care ETF,Financial,Exchange Traded Fund
+89,PTNQ,Pacer Trendpilot 100 ETF,Financial,Exchange Traded Fund
+90,QQQ,Invesco QQQ Trust Series 1,Financial,Exchange Traded Fund
+91,QTEC,First Trust NASDAQ-100 Technology Sector Index Fund,Financial,Exchange Traded Fund
+92,RBCAA,"Republic Bancorp, Inc. (KY)",Financial,Banks - Regional
+93,RGEN,Repligen Corp,Healthcare,Medical Instruments & Supplies
+94,RMNI,Rimini Street Inc,Technology,Software - Application
+95,ROAD,Construction Partners Inc,Industrials,Engineering & Construction
+96,ROST,"Ross Stores, Inc",Consumer Cyclical,Apparel Retail
+97,SAFT,"Safety Insurance Group, Inc",Financial,Insurance - Property & Casualty
+98,SBUX,Starbucks Corp,Consumer Cyclical,Restaurants
+99,SCVL,"Shoe Carnival, Inc",Consumer Cyclical,Apparel Retail
+100,SIMO,Silicon Motion Technology Corp ADR,Technology,Semiconductors
+101,SQQQ,ProShares UltraPro Short QQQ -3x Shares,Financial,Exchange Traded Fund
+102,STRR,Star Equity Holdings Inc,Industrials,Conglomerates
+103,TAYD,Taylor Devices Inc,Industrials,Specialty Industrial Machinery
+104,TCBK,Trico Bancshares,Financial,Banks - Regional
+105,TLT,iShares 20+ Year Treasury Bond ETF,Financial,Exchange Traded Fund
+106,TTWO,"Take-Two Interactive Software, Inc",Communication Services,Electronic Gaming & Multimedia
+107,UAL,United Airlines Holdings Inc,Industrials,Airlines
+108,USTB,VictoryShares Short-Term Bond ETF,Financial,Exchange Traded Fund
+109,VCSH,Vanguard Short-Term Corporate Bond ETF,Financial,Exchange Traded Fund
+110,VRSN,Verisign Inc,Technology,Software - Infrastructure
+111,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,Financial,Exchange Traded Fund
+112,VTHR,Vanguard Russell 3000 Index ETF,Financial,Exchange Traded Fund
+113,WHF,WhiteHorse Finance Inc,Financial,Asset Management
+114,WINA,Winmark Corporation,Consumer Cyclical,Specialty Retail
+115,WVVI,Willamette Valley Vineyard Inc,Consumer Defensive,Beverages - Wineries & Distilleries
+116,XRAY,DENTSPLY Sirona Inc,Healthcare,Medical Instruments & Supplies
+117,YLDE,Franklin ClearBridge Enhanced Income ETF,Financial,Exchange Traded Fund
+0,AACG,ATA Creativity Global ADR,Consumer Defensive,Education & Training Services
+1,AAOI,Applied Optoelectronics Inc,Technology,Communication Equipment
+2,ACIW,ACI Worldwide Inc,Technology,Software - Infrastructure
+3,ADBE,Adobe Inc,Technology,Software - Application
+4,ADI,Analog Devices Inc,Technology,Semiconductors
+5,AFYA,Afya Ltd,Consumer Defensive,Education & Training Services
+6,AGPU,Axe Compute Inc,Healthcare,Health Information Services
+7,AIHS,Senmiao Technology Ltd,Industrials,Rental & Leasing Services
+8,AMBA,Ambarella Inc,Technology,Semiconductor Equipment & Materials
+9,AMRX,Amneal Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+10,AMSF,Amerisafe Inc,Financial,Insurance - Specialty
+11,AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail
+12,AREC,American Resources Corporation,Basic Materials,Coking Coal
+13,ASYS,Amtech Systems Inc,Technology,Semiconductor Equipment & Materials
+14,AVGO,Broadcom Inc,Technology,Semiconductors
+15,AZN,Astrazeneca plc ADR,Healthcare,Drug Manufacturers - General
+16,BANX,ArrowMark Financial Corp,Financial,Closed-End Fund - Debt
+17,BATRK,Atlanta Braves Holdings Inc,Communication Services,Entertainment
+18,BCYC,Bicycle Therapeutics Plc ADR,Healthcare,Biotechnology
+19,BDRX,Biodexa Pharmaceuticals Plc ADR,Healthcare,Biotechnology
+20,BELFB,Bel Fuse Inc,Technology,Electronic Components
+21,BHF,Brighthouse Financial Inc,Financial,Insurance - Life
+22,BIOX,Bioceres Crop Solutions Corp,Basic Materials,Agricultural Inputs
+23,BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services
+24,BSET,Bassett Furniture Industries Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+25,BTAI,BioXcel Therapeutics Inc,Healthcare,Biotechnology
+26,BVFL,BV Financial Inc,Financial,Banks - Regional
+27,CCOI,Cogent Communications Holdings Inc,Communication Services,Telecom Services
+28,CCRN,"Cross Country Healthcares, Inc",Healthcare,Medical Care Facilities
+29,CDXS,Codexis Inc,Healthcare,Biotechnology
+30,CELH,Celsius Holdings Inc,Consumer Defensive,Beverages - Non-Alcoholic
+31,CFFI,C & F Financial Corp,Financial,Banks - Regional
+32,CGBD,Carlyle Secured Lending Inc,Financial,Asset Management
+33,CHMG,Chemung Financial Corp,Financial,Banks - Regional
+34,CLNE,Clean Energy Fuels Corp,Energy,Oil & Gas Refining & Marketing
+35,CNOB,ConnectOne Bancorp Inc,Financial,Banks - Regional
+36,CODA,Coda Octopus Group Inc,Industrials,Aerospace & Defense
+37,CODX,Co-Diagnostics Inc,Healthcare,Medical Devices
+38,CPRT,"Copart, Inc",Industrials,Specialty Business Services
+39,CTRN,Citi Trends Inc,Consumer Cyclical,Apparel Retail
+40,CVGW,"Calavo Growers, Inc",Consumer Defensive,Food Distribution
+41,CVLT,Commvault Systems Inc,Technology,Software - Application
+42,DOCU,DocuSign Inc,Technology,Software - Application
+43,DRIO,DarioHealth Corp,Healthcare,Health Information Services
+44,DSGX,Descartes Systems Group Inc,Technology,Software - Application
+45,DTSS,Datasea Inc,Technology,Software - Infrastructure
+46,DXPE,"DXP Enterprises, Inc",Industrials,Industrial Distribution
+47,EDAP,EDAP TMS S.A. ADR,Healthcare,Medical Distribution
+48,EGBN,Eagle Bancorp Inc (MD),Financial,Banks - Regional
+49,ENTA,Enanta Pharmaceuticals Inc,Healthcare,Biotechnology
+50,ESCA,"Escalade, Inc",Consumer Cyclical,Leisure
+51,ETON,Eton Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+52,EXC,Exelon Corp,Utilities,Utilities - Regulated Electric
+53,EXTR,Extreme Networks Inc,Technology,Communication Equipment
+54,FCA,First Trust China AlphaDEX Fund,Financial,Exchange Traded Fund
+55,FITB,Fifth Third Bancorp,Financial,Banks - Regional
+56,FLWS,1-800 Flowers.com Inc,Consumer Cyclical,Specialty Retail
+57,FTAI,FTAI Aviation Ltd,Industrials,Rental & Leasing Services
+58,FTDR,Frontdoor Inc,Consumer Cyclical,Personal Services
+59,FTEK,Fuel Tech Inc,Industrials,Pollution & Treatment Controls
+60,GLDD,Great Lakes Dredge & Dock Corporation,Industrials,Engineering & Construction
+61,GLRE,Greenlight Capital Re Ltd,Financial,Insurance - Reinsurance
+62,GMAB,Genmab ADR,Healthcare,Biotechnology
+63,GNOM,Global X Genomics & Biotechnology ETF,Financial,Exchange Traded Fund
+64,GNSS,Genasys Inc,Technology,Scientific & Technical Instruments
+65,GRCE,Grace Therapeutics Inc,Healthcare,Biotechnology
+66,HAS,"Hasbro, Inc",Consumer Cyclical,Leisure
+67,HCSG,"Healthcare Services Group, Inc",Healthcare,Medical Care Facilities
+68,HIMX,Himax Technologies ADR,Technology,Semiconductors
+69,HQY,Healthequity Inc,Healthcare,Health Information Services
+70,IBKR,Interactive Brokers Group Inc,Financial,Capital Markets
+71,ICLN,iShares Global Clean Energy ETF,Financial,Exchange Traded Fund
+72,IMMR,Immersion Corp,Technology,Software - Application
+73,IMTE,Integrated Media Technology Limited,Technology,Electronic Components
+74,INCY,Incyte Corp,Healthcare,Biotechnology
+75,IRTC,iRhythm Technologies Inc,Healthcare,Medical Devices
+76,JBLU,Jetblue Airways Corp,Industrials,Airlines
+77,JOYY,JOYY Inc ADR,Communication Services,Internet Content & Information
+78,KINS,Kingstone Cos. Inc,Financial,Insurance - Property & Casualty
+79,KRMD,KORU Medical Systems Inc,Healthcare,Medical Instruments & Supplies
+80,KRNT,Kornit Digital Ltd,Industrials,Specialty Industrial Machinery
+81,KRUS,Kura Sushi USA Inc,Consumer Cyclical,Restaurants
+82,LBTYA,Liberty Global Ltd,Communication Services,Telecom Services
+83,LDWY,Lendway Inc,Communication Services,Advertising Agencies
+84,LFWD,Lifeward Ltd,Healthcare,Medical Devices
+85,LGIH,LGI Homes Inc,Consumer Cyclical,Residential Construction
+86,LGO,Largo Inc,Basic Materials,Other Industrial Metals & Mining
+87,LTRX,Lantronix Inc,Technology,Communication Equipment
+88,LWLG,Lightwave Logic Inc,Basic Materials,Specialty Chemicals
+89,MAAS,Maase Inc,Financial,Asset Management
+90,MBAI,Check-Cap Ltd,Healthcare,Diagnostics & Research
+91,MELI,MercadoLibre Inc,Consumer Cyclical,Internet Retail
+92,MEOH,Methanex Corp,Basic Materials,Chemicals
+93,MOMO,Hello Group Inc ADR,Communication Services,Internet Content & Information
+94,MRVL,Marvell Technology Inc,Technology,Semiconductors
+95,NBN,Northeast Bank,Financial,Banks - Regional
+96,NCMI,National Cinemedia Inc,Communication Services,Advertising Agencies
+97,NFTY,First Trust India Nifty 50 Equal Weight ETF,Financial,Exchange Traded Fund
+98,NVEC,NVE Corp,Technology,Semiconductors
+99,NWSA,News Corp,Communication Services,Entertainment
+100,NXST,Nexstar Media Group Inc,Communication Services,Broadcasting
+101,OFLX,Omega Flex Inc,Industrials,Specialty Industrial Machinery
+102,PCAR,Paccar Inc,Industrials,Farm & Heavy Construction Machinery
+103,PENG,Penguin Solutions Inc,Technology,Information Technology Services
+104,PLMR,Palomar Holdings Inc,Financial,Insurance - Property & Casualty
+105,POWW,Outdoor Holding Co,Industrials,Aerospace & Defense
+106,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods
+107,PRDO,Perdoceo Education Corporation,Consumer Defensive,Education & Training Services
+108,PTC,PTC Inc,Technology,Software - Application
+109,PYPL,PayPal Holdings Inc,Financial,Credit Services
+110,QCOM,"Qualcomm, Inc",Technology,Semiconductors
+111,QNCX,Quince Therapeutics Inc,Healthcare,Biotechnology
+112,QVCGA,QVC Group Inc,Consumer Cyclical,Internet Retail
+113,RARE,Ultragenyx Pharmaceutical Inc,Healthcare,Biotechnology
+114,RCKY,"Rocky Brands, Inc",Consumer Cyclical,Footwear & Accessories
+115,RGLD,"Royal Gold, Inc",Basic Materials,Gold
+116,RNRG,Global X Renewable Energy Producers ETF,Financial,Exchange Traded Fund
+117,RRBI,Red River Bancshares Inc,Financial,Banks - Regional
+118,SATS,EchoStar Corp,Communication Services,Telecom Services
+119,SKYE,Skye Bioscience Inc,Healthcare,Biotechnology
+120,SLE,Super League Enterprise Inc,Communication Services,Internet Content & Information
+121,SLNH,Soluna Holdings Inc,Financial,Capital Markets
+122,SMPL,Simply Good Foods Co,Consumer Defensive,Packaged Foods
+123,SPFI,South Plains Financial Inc,Financial,Banks - Regional
+124,SPNS,Sapiens International Corp NV,Technology,Software - Application
+125,STGW,Stagwell Inc,Communication Services,Advertising Agencies
+126,STRT,Strattec Security Corp,Consumer Cyclical,Auto Parts
+127,TACT,Transact Technologies Inc,Technology,Computer Hardware
+128,TBCH,Turtle Beach Corp,Technology,Consumer Electronics
+129,THRM,Gentherm Inc,Consumer Cyclical,Auto Parts
+130,TLPH,Talphera Inc,Healthcare,Drug Manufacturers - Specialty & Generic
+131,TOUR,Tuniu Corp ADR,Consumer Cyclical,Travel Services
+132,UCTT,Ultra Clean Hldgs Inc,Technology,Semiconductor Equipment & Materials
+133,UNB,"Union Bankshares, Inc",Financial,Banks - Regional
+134,UPBD,Upbound Group Inc,Technology,Software - Application
+135,VALU,"Value Line, Inc",Financial,Financial Data & Stock Exchanges
+136,VNET,VNET Group Inc ADR,Technology,Information Technology Services
+137,VRA,Vera Bradley Inc,Consumer Cyclical,Footwear & Accessories
+138,VRRM,Verra Mobility Corp,Technology,Information Technology Services
+139,VRSK,Verisk Analytics Inc,Industrials,Consulting Services
+140,VSEC,VSE Corp,Industrials,Aerospace & Defense
+141,VTGN,Vistagen Therapeutics Inc,Healthcare,Biotechnology
+142,XENE,Xenon Pharmaceuticals Inc,Healthcare,Biotechnology
+143,ZTEK,Zentek Ltd,Healthcare,Medical Instruments & Supplies
+144,ZUMZ,Zumiez Inc,Consumer Cyclical,Apparel Retail
+0,AAPL,Apple Inc,Technology,Consumer Electronics
+1,ACGL,Arch Capital Group Ltd,Financial,Insurance - Diversified
+2,ACIC,American Coastal Insurance Corp,Financial,Insurance - Property & Casualty
+3,ACNT,Ascent Industries Co,Basic Materials,Chemicals
+4,ACWI,iShares MSCI ACWI ETF,Financial,Exchange Traded Fund
+5,AEC,Anfield Energy Inc,Energy,Uranium
+6,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage
+7,AIFU,AIFU Inc,Financial,Insurance Brokers
+8,ALRS,Alerus Financial Corp,Financial,Banks - Regional
+9,AMGN,AMGEN Inc,Healthcare,Drug Manufacturers - General
+10,AMKR,AMKOR Technology Inc,Technology,Semiconductor Equipment & Materials
+11,AMTX,Aemetis Inc,Basic Materials,Specialty Chemicals
+12,APRE,Aprea Therapeutics Inc,Healthcare,Biotechnology
+13,ARKR,Ark Restaurants Corp,Consumer Cyclical,Restaurants
+14,ARTL,Artelo Biosciences Inc,Healthcare,Biotechnology
+15,ASRV,Ameriserv Financial Inc,Financial,Banks - Regional
+16,ATOS,Atossa Therapeutics Inc,Healthcare,Biotechnology
+17,AVAV,AeroVironment Inc,Industrials,Aerospace & Defense
+18,AVBH,Avidbank Holdings Inc,Financial,Banks - Regional
+19,AWRE,Aware Inc,Technology,Software - Application
+20,BANF,Bancfirst Corp,Financial,Banks - Regional
+21,BANR,Banner Corp,Financial,Banks - Regional
+22,BGRN,iShares USD Green Bond ETF,Financial,Exchange Traded Fund
+23,BHRB,Burke & Herbert Financial Services Corp,Financial,Banks - Regional
+24,BLMN,Bloomin Brands Inc,Consumer Cyclical,Restaurants
+25,CAC,Camden National Corp,Financial,Banks - Regional
+26,CASY,"Casey's General Stores, Inc",Consumer Cyclical,Specialty Retail
+27,CCEC,Capital Clean Energy Carriers Corp,Industrials,Marine Shipping
+28,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,Financial,Exchange Traded Fund
+29,CDNS,"Cadence Design Systems, Inc",Technology,Software - Application
+30,CME,CME Group Inc,Financial,Financial Data & Stock Exchanges
+31,CPSS,"Consumer Portfolio Service, Inc",Financial,Credit Services
+32,CRAI,CRA International Inc,Industrials,Consulting Services
+33,CRIS,Curis Inc,Healthcare,Biotechnology
+34,CWST,"Casella Waste Systems, Inc",Industrials,Waste Management
+35,CXDO,Crexendo Inc,Communication Services,Telecom Services
+36,CZFS,"Citizens Financial Services, Inc",Financial,Banks - Regional
+37,DRS,Leonardo DRS Inc,Industrials,Aerospace & Defense
+38,DSGR,Distribution Solutions Group Inc,Industrials,Industrial Distribution
+39,DWSH,AdvisorShares Dorsey Wright Short ETF -1x Shares,Financial,Exchange Traded Fund
+40,DYAI,"Dyadic International Inc., DE",Healthcare,Biotechnology
+41,EMXC,IShares MSCI Emerging Markets ex China ETF,Financial,Exchange Traded Fund
+42,ERIE,Erie Indemnity Co,Financial,Insurance Brokers
+43,FAD,First Trust Multi Cap Growth AlphaDEX Fund,Financial,Exchange Traded Fund
+44,FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P
+45,FBNC,First Bancorp,Financial,Banks - Regional
+46,FNK,First Trust Mid Cap Value AlphaDEX Fund,Financial,Exchange Traded Fund
+47,FPA,First Trust Asia Pacific ex-Japan AlphaDEX Fund,Financial,Exchange Traded Fund
+48,FRAF,Franklin Financial Services Corp,Financial,Banks - Regional
+49,FRSX,Foresight Autonomous Holdings Ltd ADR,Consumer Cyclical,Auto Parts
+50,FSCS,First Trust SMID Capital Strength ETF,Financial,Exchange Traded Fund
+51,FTXL,First Trust Nasdaq Semiconductor ETF,Financial,Exchange Traded Fund
+52,GBLI,Global Indemnity Group LLC,Financial,Insurance - Property & Casualty
+53,GLDI,UBS AG ETRACS Gold Shares Covered Call ETNs,Financial,Exchange Traded Fund
+54,HLNE,Hamilton Lane Inc,Financial,Asset Management
+55,HTHT,H World Group Limited ADR,Consumer Cyclical,Lodging
+56,IGIB,iShares Trust iShares 5-10 Year Investment Grade Corporate Bond ETF,Financial,Exchange Traded Fund
+57,ILPT,Industrial Logistics Properties Trust,Real Estate,REIT - Industrial
+58,INDY,iShares India 50 ETF,Financial,Exchange Traded Fund
+59,INOD,Innodata Inc,Technology,Information Technology Services
+60,IPKW,Invesco International BuyBack Achievers TM ETF,Financial,Exchange Traded Fund
+61,JKHY,"Jack Henry & Associates, Inc",Technology,Information Technology Services
+62,KBWY,Invesco KBW Premium Yield Equity REIT ETF,Financial,Exchange Traded Fund
+63,KDP,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic
+64,KIDS,OrthoPediatrics corp,Healthcare,Medical Devices
+65,KMDA,Kamada Ltd,Healthcare,Drug Manufacturers - Specialty & Generic
+66,LAUR,Laureate Education Inc,Consumer Defensive,Education & Training Services
+67,LKQ,LKQ Corp,Consumer Cyclical,Auto Parts
+68,LMFA,LM Funding America Inc,Financial,Credit Services
+69,MGNX,Macrogenics Inc,Healthcare,Biotechnology
+70,MSEX,Middlesex Water Co,Utilities,Utilities - Regulated Water
+71,NECB,NorthEast Community Bancorp Inc,Financial,Banks - Regional
+72,NICE,NICE Ltd ADR,Technology,Software - Application
+73,NSIT,Insight Enterprises Inc,Technology,Electronics & Computer Distribution
+74,NWS,News Corp,Communication Services,Entertainment
+75,OCUL,Ocular Therapeutix Inc,Healthcare,Biotechnology
+76,OXSQ,Oxford Square Capital Corp,Financial,Asset Management
+77,PAA,Plains All American Pipeline LP,Energy,Oil & Gas Midstream
+78,PAYX,Paychex Inc,Technology,Software - Application
+79,PCYO,Pure Cycle Corp,Utilities,Utilities - Regulated Water
+80,PIE,Invesco Dorsey Wright Emerging Markets Momentum ETF,Financial,Exchange Traded Fund
+81,PLAB,"Photronics, Inc",Technology,Semiconductor Equipment & Materials
+82,PLCE,Childrens Place Inc,Consumer Cyclical,Apparel Manufacturing
+83,PLXS,Plexus Corp,Technology,Electronic Components
+84,POWI,Power Integrations Inc,Technology,Semiconductors
+85,QAT,iShares MSCI Qatar ETF,Financial,Exchange Traded Fund
+86,RAIL,FreightCar America Inc,Industrials,Railroads
+87,RCEL,AVITA Medical Inc,Healthcare,Medical Devices
+88,RDVY,First Trust Rising Dividend Achievers ETF,Financial,Exchange Traded Fund
+89,RMR,RMR Group Inc,Real Estate,Real Estate Services
+90,ROP,Roper Technologies Inc,Technology,Software - Application
+91,SCSC,"Scansource, Inc",Technology,Electronics & Computer Distribution
+92,SCWO,374Water Inc,Industrials,Pollution & Treatment Controls
+93,SFNC,Simmons First National Corp,Financial,Banks - Regional
+94,SKYW,Skywest Inc,Industrials,Airlines
+95,SMID,Smith-Midland Corp,Basic Materials,Building Materials
+96,SSKN,STRATA Skin Sciences Inc,Healthcare,Medical Devices
+97,STNE,StoneCo Ltd,Technology,Software - Infrastructure
+98,STRL,Sterling Infrastructure Inc,Industrials,Engineering & Construction
+99,TER,"Teradyne, Inc",Technology,Semiconductor Equipment & Materials
+100,TROW,T. Rowe Price Group Inc,Financial,Asset Management
+101,TSBK,"Timberland Bancorp, Inc",Financial,Banks - Regional
+102,USOI,UBS AG ETRACS Crude Oil Shares Covered Call ETNs,Financial,Exchange Traded Fund
+103,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Financial,Exchange Traded Fund
+104,VS,Versus Systems Inc,Technology,Software - Application
+105,WRLD,World Acceptance Corp,Financial,Credit Services
+106,WSBC,"Wesbanco, Inc",Financial,Banks - Regional

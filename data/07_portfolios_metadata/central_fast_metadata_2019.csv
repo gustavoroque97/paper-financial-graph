@@ -1,0 +1,66 @@
+Ticker,No.,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
+AAPL,13,Apple Inc,Technology,Consumer Electronics,USA,4047240000000.0,36.72,273.9,-0.08,11359586
+ACWI,63,iShares MSCI ACWI ETF,Financial,Exchange Traded Fund,USA,,,139.95,-1.3,1107397
+AMKR,207,AMKOR Technology Inc,Technology,Semiconductor Equipment & Materials,USA,10050000000.0,32.78,40.67,-7.37,2100259
+ATRO,352,Astronics Corp,Industrials,Aerospace & Defense,USA,1870000000.0,,52.58,0.52,129490
+AVAV,368,AeroVironment Inc,Industrials,Aerospace & Defense,USA,11720000000.0,,234.66,-0.28,383619
+BELFB,467,Bel Fuse Inc,Technology,Electronic Components,USA,2130000000.0,33.75,171.54,-1.01,38909
+CAC,683,Camden National Corp,Financial,Banks - Regional,USA,776230000.0,13.07,45.87,0.42,26397
+CACC,684,Credit Acceptance Corp,Financial,Credit Services,USA,5100000000.0,12.23,461.95,-0.45,33572
+CCRN,744,"Cross Country Healthcares, Inc",Healthcare,Medical Care Facilities,USA,266180000.0,,8.13,-1.51,377201
+CENX,775,Century Aluminum Co,Basic Materials,Aluminum,USA,2990000000.0,40.08,32.01,1.96,324394
+CHRW,825,"C.H. Robinson Worldwide, Inc",Industrials,Integrated Freight & Logistics,USA,18650000000.0,32.01,157.9,0.19,353912
+CLNE,855,Clean Energy Fuels Corp,Energy,Oil & Gas Refining & Marketing,USA,496610000.0,,2.26,0.2,288610
+CME,876,CME Group Inc,Financial,Financial Data & Stock Exchanges,USA,97830000000.0,26.3,271.29,-0.33,558783
+CNOB,889,ConnectOne Bancorp Inc,Financial,Banks - Regional,USA,1380000000.0,22.25,27.5,0.19,59627
+CNXN,898,"PC Connection, Inc",Technology,Electronics & Computer Distribution,USA,1540000000.0,18.79,60.85,2.29,36321
+COLB,912,"Columbia Banking System, Inc",Financial,Banks - Regional,USA,8660000000.0,13.02,28.94,-0.75,545378
+CPB,935,Campbells Co,Consumer Defensive,Packaged Foods,USA,8580000000.0,14.89,28.77,1.79,2831896
+CPRT,942,"Copart, Inc",Industrials,Specialty Business Services,USA,37830000000.0,23.97,39.08,1.07,2722924
+CRAI,948,CRA International Inc,Industrials,Consulting Services,USA,1320000000.0,24.15,200.84,0.83,52909
+CVLT,1030,Commvault Systems Inc,Technology,Software - Application,USA,5290000000.0,67.53,119.87,0.03,125661
+ECPG,1221,"Encore Capital Group, Inc",Financial,Credit Services,USA,1210000000.0,,54.1,0.73,39641
+EGBN,1240,Eagle Bancorp Inc (MD),Financial,Banks - Regional,USA,640530000.0,,21.09,-0.52,47522
+ENSG,1289,Ensign Group Inc,Healthcare,Medical Care Facilities,USA,10070000000.0,30.93,173.77,-1.87,104365
+ERIC,1308,Telefonaktiebolaget L M Ericsson ADR,Technology,Communication Equipment,Sweden,29530000000.0,12.97,9.61,0.58,1824654
+ERIE,1309,Erie Indemnity Co,Financial,Insurance Brokers,USA,13280000000.0,23.19,285.22,-0.63,34871
+EVRG,1352,Evergy Inc,Utilities,Utilities - Regulated Electric,USA,16850000000.0,20.09,73.21,-1.23,418525
+EXC,1362,Exelon Corp,Utilities,Utilities - Regulated Electric,USA,44100000000.0,15.62,43.65,-0.5,1725092
+FCBC,1407,First Community Bankshares Inc,Financial,Banks - Regional,USA,645380000.0,13.15,35.24,-0.26,5707
+FEX,1446,First Trust Large Cap Core AlphaDEX Fund,Financial,Exchange Traded Fund,USA,,,118.26,-0.62,3738
+FITB,1479,Fifth Third Bancorp,Financial,Banks - Regional,USA,31410000000.0,14.21,47.52,-0.65,2432475
+FORM,1528,FormFactor Inc,Technology,Semiconductor Equipment & Materials,USA,4330000000.0,106.46,55.91,-0.62,250664
+GNTX,1721,Gentex Corp,Consumer Cyclical,Auto Parts,USA,5210000000.0,14.08,23.8,0.63,480760
+HAS,1800,"Hasbro, Inc",Consumer Cyclical,Leisure,USA,11270000000.0,,80.33,-0.95,381767
+HBAN,1803,"Huntington Bancshares, Inc",Financial,Banks - Regional,USA,27610000000.0,12.32,17.53,-1.16,6305229
+HERZ,1833,Herzfeld Credit Income Fund Inc,Financial,Asset Management,USA,41600000.0,32.91,2.59,1.17,6123
+IBKR,1958,Interactive Brokers Group Inc,Financial,Capital Markets,USA,28000000000.0,30.28,62.86,-0.02,1020423
+ICUI,1984,"ICU Medical, Inc",Healthcare,Medical Instruments & Supplies,USA,3670000000.0,,148.61,0.39,82729
+JKHY,2186,"Jack Henry & Associates, Inc",Technology,Information Technology Services,USA,13570000000.0,28.48,187.51,-0.07,177350
+KALU,2212,Kaiser Aluminum Corp,Basic Materials,Aluminum,USA,1810000000.0,20.14,111.51,1.46,53619
+KDP,2229,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA,39140000000.0,24.83,28.81,-1.44,4077786
+MASI,2474,Masimo Corp,Healthcare,Medical Devices,USA,7150000000.0,,133.19,-3.06,277118
+MCRI,2510,"Monarch Casino & Resort, Inc",Consumer Cyclical,Resorts & Casinos,USA,1820000000.0,18.0,99.76,-0.36,24188
+MNST,2602,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA,73160000000.0,42.63,74.89,0.05,902360
+MRVL,2639,Marvell Technology Inc,Technology,Semiconductors,USA,71010000000.0,29.32,83.73,-0.63,3426345
+MSEX,2644,Middlesex Water Co,Utilities,Utilities - Regulated Water,USA,969980000.0,22.2,52.9,-0.33,41581
+MU,2668,Micron Technology Inc,Technology,Semiconductors,USA,263650000000.0,30.9,234.28,-1.36,8142835
+NCMI,2734,National Cinemedia Inc,Communication Services,Advertising Agencies,USA,380920000.0,,4.06,1.49,59363
+NDSN,2747,Nordson Corp,Industrials,Specialty Industrial Machinery,USA,13260000000.0,27.68,235.95,-0.77,187641
+NNBR,2794,NN Inc,Industrials,Conglomerates,USA,61740000.0,,1.23,-2.38,130818
+PLAB,3109,"Photronics, Inc",Technology,Semiconductor Equipment & Materials,USA,2090000000.0,15.46,35.47,-3.5,536385
+PUI,3241,Invesco Dorsey Wright Utilities Momentum ETF,Financial,Exchange Traded Fund,USA,,,44.1,-0.7,2435
+QCOM,3271,"Qualcomm, Inc",Technology,Semiconductors,USA,189610000000.0,36.2,177.04,-1.24,2146811
+QMCO,3283,Quantum Corp,Technology,Computer Hardware,USA,107580000.0,,7.84,1.42,207735
+RBCAA,3356,"Republic Bancorp, Inc. (KY)",Financial,Banks - Regional,USA,1280000000.0,11.34,73.62,-0.9,6933
+ROP,3466,Roper Technologies Inc,Technology,Software - Application,USA,47660000000.0,30.53,442.74,-0.19,239744
+ROST,3467,"Ross Stores, Inc",Consumer Cyclical,Apparel Retail,USA,59230000000.0,28.62,183.12,-0.63,782936
+SATS,3523,EchoStar Corp,Communication Services,Telecom Services,USA,30260000000.0,,105.1,1.13,1096750
+SBRA,3534,Sabra Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,USA,4760000000.0,26.24,19.08,-0.6,440481
+SHEN,3604,Shenandoah Telecommunications Co,Communication Services,Telecom Services,USA,653290000.0,,11.9,-0.08,58697
+SSYS,3791,Stratasys Ltd,Technology,Computer Hardware,USA,777240000.0,,9.14,0.44,214761
+TLT,3959,iShares 20+ Year Treasury Bond ETF,Financial,Exchange Traded Fund,USA,,,87.67,0.31,19143282
+UFPI,4100,UFP Industries Inc,Basic Materials,Lumber & Wood Production,USA,5430000000.0,17.39,93.14,0.78,86733
+VCSH,4187,Vanguard Short-Term Corporate Bond ETF,Financial,Exchange Traded Fund,USA,,,79.81,0.06,1083833
+VSEC,4262,VSE Corp,Industrials,Aerospace & Defense,USA,3960000000.0,130.52,169.37,-0.01,144016
+WDFC,4312,WD-40 Co,Basic Materials,Specialty Chemicals,USA,2800000000.0,30.91,206.74,0.18,33251
