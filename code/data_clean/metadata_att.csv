@@ -1,0 +1,400 @@
+,Ticker,Sector,Industry,Country
+1,AAPL,Technology,Consumer Electronics,USA
+4,WMT,Consumer Defensive,Discount Stores,USA
+5,BRK-A,Financial,Insurance - Diversified,USA
+7,LLY,Healthcare,Drug Manufacturers - General,USA
+8,JPM,Financial,Banks - Diversified,USA
+9,XOM,Energy,Oil & Gas Integrated,USA
+12,EQT,Energy,Oil & Gas E&P,USA
+13,HBAN,Financial,Banks - Regional,USA
+14,AXR,Real Estate,Real Estate - Development,USA
+17,CET,Financial,Closed-End Fund - Equity,USA
+21,DLX,Industrials,Conglomerates,USA
+23,PPL,Utilities,Utilities - Regulated Electric,USA
+25,CVS,Healthcare,Healthcare Plans,USA
+29,TRC,Industrials,Conglomerates,USA
+30,RRX,Industrials,Specialty Industrial Machinery,USA
+31,SBR,Energy,Oil & Gas Midstream,USA
+32,PKE,Industrials,Aerospace & Defense,USA
+42,WSO,Industrials,Industrial Distribution,USA
+45,DDS,Consumer Cyclical,Department Stores,USA
+46,UMBF,Financial,Banks - Regional,USA
+48,SPGI,Financial,Financial Data & Stock Exchanges,USA
+50,ELSE,Technology,Scientific & Technical Instruments,USA
+56,CBT,Basic Materials,Specialty Chemicals,USA
+57,TFC,Financial,Banks - Regional,USA
+60,ONB,Financial,Banks - Regional,USA
+62,RELL,Technology,Electronic Components,USA
+68,FLXS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+72,ACU,Consumer Defensive,Household & Personal Products,USA
+73,ES,Utilities,Utilities - Regulated Electric,USA
+78,NKE,Consumer Cyclical,Footwear & Accessories,USA
+81,AME,Industrials,Specialty Industrial Machinery,USA
+82,UTL,Utilities,Utilities - Diversified,USA
+83,UNH,Healthcare,Healthcare Plans,USA
+87,GFF,Industrials,Building Products & Equipment,USA
+89,MCY,Financial,Insurance - Property & Casualty,USA
+92,CBSH,Financial,Banks - Regional,USA
+93,SIGI,Financial,Insurance - Property & Casualty,USA
+94,FLS,Industrials,Specialty Industrial Machinery,USA
+98,STT,Financial,Asset Management,USA
+100,WMB,Energy,Oil & Gas Midstream,USA
+103,LNC,Financial,Insurance - Life,USA
+106,OPY,Financial,Capital Markets,USA
+107,OLP,Real Estate,REIT - Diversified,USA
+108,TDW,Energy,Oil & Gas Equipment & Services,USA
+109,WHR,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+112,GL,Financial,Insurance - Life,USA
+113,UVV,Consumer Defensive,Tobacco,USA
+115,AAME,Financial,Insurance - Life,USA
+116,HRB,Consumer Cyclical,Personal Services,USA
+117,WDC,Technology,Computer Hardware,USA
+118,WY,Real Estate,REIT - Specialty,USA
+119,LCII,Consumer Cyclical,Recreational Vehicles,USA
+122,ALK,Industrials,Airlines,USA
+124,PKOH,Industrials,Specialty Industrial Machinery,USA
+128,TPC,Industrials,Engineering & Construction,USA
+129,WTRG,Utilities,Utilities - Regulated Water,USA
+130,DXR,Healthcare,Medical Instruments & Supplies,USA
+131,TTC,Industrials,Tools & Accessories,USA
+132,CACI,Technology,Information Technology Services,USA
+134,WEN,Consumer Cyclical,Restaurants,USA
+135,VMC,Basic Materials,Building Materials,USA
+138,OII,Energy,Oil & Gas Equipment & Services,USA
+141,PPG,Basic Materials,Specialty Chemicals,USA
+144,VSEC,Industrials,Aerospace & Defense,USA
+148,TSN,Consumer Defensive,Farm Products,USA
+150,RHI,Industrials,Staffing & Employment Services,USA
+153,ADP,Technology,Software - Application,USA
+154,BKTI,Technology,Communication Equipment,USA
+155,ADX,Financial,Closed-End Fund - Equity,USA
+161,CSL,Industrials,Building Products & Equipment,USA
+162,TNC,Industrials,Specialty Industrial Machinery,USA
+163,ECL,Basic Materials,Specialty Chemicals,USA
+164,SHW,Basic Materials,Specialty Chemicals,USA
+171,HON,Industrials,Conglomerates,USA
+172,SON,Consumer Cyclical,Packaging & Containers,USA
+174,MGEE,Utilities,Utilities - Regulated Electric,USA
+179,TEX,Industrials,Farm & Heavy Construction Machinery,USA
+180,LPX,Industrials,Building Products & Equipment,USA
+183,ODC,Basic Materials,Specialty Chemicals,USA
+185,HST,Real Estate,REIT - Hotel & Motel,USA
+187,ROK,Industrials,Specialty Industrial Machinery,USA
+189,RCMT,Industrials,Conglomerates,USA
+190,TRST,Financial,Banks - Regional,USA
+194,DCI,Industrials,Specialty Industrial Machinery,USA
+196,VNO,Real Estate,REIT - Office,USA
+197,CLX,Consumer Defensive,Household & Personal Products,USA
+200,AIG,Financial,Insurance - Diversified,USA
+202,SNA,Industrials,Tools & Accessories,USA
+203,CRD-B,Financial,Insurance Brokers,USA
+206,FEIM,Technology,Communication Equipment,USA
+210,GLW,Technology,Electronic Components,USA
+212,HTO,Utilities,Utilities - Regulated Water,USA
+214,IBCP,Financial,Banks - Regional,USA
+215,ALNT,Technology,Electronic Components,USA
+216,AJG,Financial,Insurance Brokers,USA
+224,APA,Energy,Oil & Gas E&P,USA
+236,SPXC,Industrials,Building Products & Equipment,USA
+237,EDUC,Communication Services,Publishing,USA
+240,RVTY,Healthcare,Diagnostics & Research,USA
+241,NEE,Utilities,Utilities - Regulated Electric,USA
+242,WOR,Industrials,Metal Fabrication,USA
+249,FDX,Industrials,Integrated Freight & Logistics,USA
+253,KLAC,Technology,Semiconductor Equipment & Materials,USA
+257,VFC,Consumer Cyclical,Apparel Manufacturing,USA
+258,BXMT,Real Estate,REIT - Mortgage,USA
+259,MLKN,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+260,SIF,Industrials,Aerospace & Defense,USA
+264,NWN,Utilities,Utilities - Regulated Gas,USA
+267,FITB,Financial,Banks - Regional,USA
+268,AVA,Utilities,Utilities - Diversified,USA
+269,NSSC,Industrials,Security & Protection Services,USA
+271,HXL,Industrials,Aerospace & Defense,USA
+272,RLI,Financial,Insurance - Property & Casualty,USA
+275,GHC,Consumer Defensive,Education & Training Services,USA
+277,RRC,Energy,Oil & Gas E&P,USA
+278,VIRC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+279,MSB,Basic Materials,Steel,USA
+283,KEQU,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+287,ALX,Real Estate,REIT - Retail,USA
+290,CSWC,Financial,Asset Management,USA
+293,TR,Consumer Defensive,Confectioners,USA
+295,BF-B,Consumer Defensive,Beverages - Wineries & Distilleries,USA
+297,GBCI,Financial,Banks - Regional,USA
+298,TRNS,Industrials,Specialty Business Services,USA
+300,BA,Industrials,Aerospace & Defense,USA
+305,PGR,Financial,Insurance - Property & Casualty,USA
+310,HNI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+312,CFR,Financial,Banks - Regional,USA
+317,AOS,Industrials,Specialty Industrial Machinery,USA
+319,THO,Consumer Cyclical,Recreational Vehicles,USA
+320,AEP,Utilities,Utilities - Regulated Electric,USA
+323,MTR,Energy,Oil & Gas E&P,USA
+326,PNRG,Energy,Oil & Gas E&P,USA
+329,BAC,Financial,Banks - Diversified,USA
+332,COO,Healthcare,Medical Instruments & Supplies,USA
+334,AMGN,Healthcare,Drug Manufacturers - General,USA
+336,ITW,Industrials,Specialty Industrial Machinery,USA
+338,ETR,Utilities,Utilities - Regulated Electric,USA
+339,MRK,Healthcare,Drug Manufacturers - General,USA
+341,FFBC,Financial,Banks - Regional,USA
+344,MSA,Industrials,Security & Protection Services,USA
+345,MYE,Consumer Cyclical,Packaging & Containers,USA
+346,FSTR,Industrials,Railroads,USA
+348,MGRC,Industrials,Rental & Leasing Services,USA
+349,PVH,Consumer Cyclical,Apparel Manufacturing,USA
+350,EAT,Consumer Cyclical,Restaurants,USA
+352,HCSG,Healthcare,Medical Care Facilities,USA
+353,APD,Basic Materials,Specialty Chemicals,USA
+354,MZTI,Consumer Defensive,Packaged Foods,USA
+356,MDU,Utilities,Utilities - Regulated Gas,USA
+358,CMCSA,Communication Services,Telecom Services,USA
+359,SXT,Basic Materials,Specialty Chemicals,USA
+361,LUV,Industrials,Airlines,USA
+362,EML,Industrials,Tools & Accessories,USA
+363,EXPD,Industrials,Integrated Freight & Logistics,USA
+364,KR,Consumer Defensive,Grocery Stores,USA
+367,KWR,Basic Materials,Specialty Chemicals,USA
+369,THC,Healthcare,Medical Care Facilities,USA
+373,JEF,Financial,Capital Markets,USA
+375,SYY,Consumer Defensive,Food Distribution,USA
+376,HWKN,Basic Materials,Specialty Chemicals,USA
+377,AVT,Technology,Electronics & Computer Distribution,USA
+379,AMD,Technology,Semiconductors,USA
+392,COKE,Consumer Defensive,Beverages - Non-Alcoholic,USA
+393,GIS,Consumer Defensive,Packaged Foods,USA
+394,WGO,Consumer Cyclical,Recreational Vehicles,USA
+396,ADM,Consumer Defensive,Farm Products,USA
+397,HOV,Consumer Cyclical,Residential Construction,USA
+398,SWKS,Technology,Semiconductors,USA
+399,VMI,Industrials,Conglomerates,USA
+401,RTX,Industrials,Aerospace & Defense,USA
+404,UMH,Real Estate,REIT - Residential,USA
+405,JHS,Financial,Closed-End Fund - Debt,USA
+407,ACNT,Basic Materials,Chemicals,USA
+408,SGC,Consumer Cyclical,Apparel Manufacturing,USA
+410,PNW,Utilities,Utilities - Regulated Electric,USA
+412,TGT,Consumer Defensive,Discount Stores,USA
+413,R,Industrials,Rental & Leasing Services,USA
+414,PAI,Financial,Closed-End Fund - Debt,USA
+418,DINO,Energy,Oil & Gas Refining & Marketing,USA
+420,EFX,Industrials,Consulting Services,USA
+423,CAH,Healthcare,Medical Distribution,USA
+425,SRCE,Financial,Banks - Regional,USA
+427,CHD,Consumer Defensive,Household & Personal Products,USA
+428,SMP,Consumer Cyclical,Auto Parts,USA
+431,BDL,Consumer Cyclical,Restaurants,USA
+434,MO,Consumer Defensive,Tobacco,USA
+435,CXT,Industrials,Specialty Industrial Machinery,USA
+436,GAM,Financial,Closed-End Fund - Equity,USA
+437,FRT,Real Estate,REIT - Retail,USA
+440,LNT,Utilities,Utilities - Regulated Electric,USA
+441,SIEB,Financial,Capital Markets,USA
+445,GPC,Consumer Cyclical,Auto Parts,USA
+446,MAT,Consumer Cyclical,Leisure,USA
+453,TRV,Financial,Insurance - Property & Casualty,USA
+455,GE,Industrials,Aerospace & Defense,USA
+456,BKH,Utilities,Utilities - Regulated Gas,USA
+457,CHE,Healthcare,Medical Care Facilities,USA
+458,MCD,Consumer Cyclical,Restaurants,USA
+459,TXT,Industrials,Aerospace & Defense,USA
+461,CCK,Consumer Cyclical,Packaging & Containers,USA
+462,APOG,Industrials,Building Products & Equipment,USA
+464,OXY,Energy,Oil & Gas E&P,USA
+467,SWX,Utilities,Utilities - Regulated Gas,USA
+469,CMI,Industrials,Specialty Industrial Machinery,USA
+470,SLB,Energy,Oil & Gas Equipment & Services,USA
+471,AROW,Financial,Banks - Regional,USA
+473,CWT,Utilities,Utilities - Regulated Water,USA
+474,IDA,Utilities,Utilities - Regulated Electric,USA
+475,FSS,Industrials,Pollution & Treatment Controls,USA
+477,WMK,Consumer Defensive,Grocery Stores,USA
+480,RJF,Financial,Asset Management,USA
+483,DIS,Communication Services,Entertainment,USA
+485,NI,Utilities,Utilities - Regulated Gas,USA
+486,DRS,Industrials,Aerospace & Defense,USA
+490,MCS,Communication Services,Entertainment,USA
+492,OKE,Energy,Oil & Gas Midstream,USA
+496,BELFA,Technology,Electronic Components,USA
+497,ADI,Technology,Semiconductors,USA
+498,IAF,Financial,Closed-End Fund - Equity,USA
+500,TY,Financial,Closed-End Fund - Equity,USA
+503,EBF,Industrials,Business Equipment & Supplies,USA
+505,CNP,Utilities,Utilities - Regulated Electric,USA
+507,MRSH,Financial,Insurance Brokers,USA
+508,ESCA,Consumer Cyclical,Leisure,USA
+509,MKC,Consumer Defensive,Packaged Foods,USA
+514,GCO,Consumer Cyclical,Apparel Retail,USA
+515,BOH,Financial,Banks - Regional,USA
+518,CTS,Technology,Electronic Components,USA
+519,EIX,Utilities,Utilities - Regulated Electric,USA
+520,OMC,Communication Services,Advertising Agencies,USA
+522,VLGEA,Consumer Defensive,Grocery Stores,USA
+525,VLO,Energy,Oil & Gas Refining & Marketing,USA
+527,IDCC,Technology,Software - Application,USA
+529,ATRO,Industrials,Aerospace & Defense,USA
+532,BMI,Technology,Scientific & Technical Instruments,USA
+542,LZB,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+544,NRT,Energy,Oil & Gas E&P,USA
+546,PBI,Industrials,Integrated Freight & Logistics,USA
+547,SO,Utilities,Utilities - Regulated Electric,USA
+548,CTAS,Industrials,Specialty Business Services,USA
+550,LOW,Consumer Cyclical,Home Improvement Retail,USA
+552,PEO,Financial,Closed-End Fund - Equity,USA
+556,VALU,Financial,Financial Data & Stock Exchanges,USA
+557,DXC,Technology,Information Technology Services,USA
+560,SF,Financial,Capital Markets,USA
+561,BRO,Financial,Insurance Brokers,USA
+567,COP,Energy,Oil & Gas E&P,USA
+568,SEB,Industrials,Conglomerates,USA
+570,SXI,Industrials,Specialty Industrial Machinery,USA
+571,NYT,Communication Services,Publishing,USA
+572,NC,Energy,Thermal Coal,USA
+573,NNN,Real Estate,REIT - Retail,USA
+575,STEW,Financial,Closed-End Fund - Equity,USA
+578,USLM,Basic Materials,Building Materials,USA
+580,AIR,Industrials,Aerospace & Defense,USA
+584,LXU,Basic Materials,Chemicals,USA
+585,CMS,Utilities,Utilities - Regulated Electric,USA
+587,MOG-A,Industrials,Aerospace & Defense,USA
+590,BPOP,Financial,Banks - Regional,USA
+591,SOR,Financial,Closed-End Fund - Equity,USA
+592,WABC,Financial,Banks - Regional,USA
+596,CIA,Financial,Insurance - Life,USA
+597,MUR,Energy,Oil & Gas E&P,USA
+598,C,Financial,Banks - Diversified,USA
+599,CL,Consumer Defensive,Household & Personal Products,USA
+601,UG,Consumer Defensive,Household & Personal Products,USA
+602,HPQ,Technology,Computer Hardware,USA
+603,CMC,Industrials,Metal Fabrication,USA
+610,PEBK,Financial,Banks - Regional,USA
+614,REX,Basic Materials,Chemicals,USA
+619,ORI,Financial,Insurance - Property & Casualty,USA
+621,MU,Technology,Semiconductors,USA
+630,FELE,Industrials,Specialty Industrial Machinery,USA
+632,PRG,Industrials,Rental & Leasing Services,USA
+639,USB,Financial,Banks - Regional,USA
+640,PHM,Consumer Cyclical,Residential Construction,USA
+642,MTZ,Industrials,Engineering & Construction,USA
+649,CVBF,Financial,Banks - Regional,USA
+650,ZION,Financial,Banks - Regional,USA
+651,L,Financial,Insurance - Property & Casualty,USA
+653,ASRV,Financial,Banks - Regional,USA
+657,KEX,Industrials,Marine Shipping,USA
+658,SKY,Consumer Cyclical,Residential Construction,USA
+660,ED,Utilities,Utilities - Regulated Electric,USA
+662,DTE,Utilities,Utilities - Regulated Electric,USA
+664,JNJ,Healthcare,Drug Manufacturers - General,USA
+669,DIOD,Technology,Semiconductors,USA
+671,BDX,Healthcare,Medical Instruments & Supplies,USA
+674,GNTX,Consumer Cyclical,Auto Parts,USA
+676,AWR,Utilities,Utilities - Regulated Water,USA
+682,CI,Healthcare,Healthcare Plans,USA
+684,HVT,Consumer Cyclical,Home Improvement Retail,USA
+690,GHM,Industrials,Specialty Industrial Machinery,USA
+692,BCV,Financial,Closed-End Fund - Debt,USA
+696,NEM,Basic Materials,Gold,USA
+705,PEG,Utilities,Utilities - Regulated Electric,USA
+709,TILE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+710,PAYX,Technology,Software - Application,USA
+712,OSK,Industrials,Farm & Heavy Construction Machinery,USA
+713,MSEX,Utilities,Utilities - Regulated Water,USA
+714,CASY,Consumer Cyclical,Specialty Retail,USA
+717,LRCX,Technology,Semiconductor Equipment & Materials,USA
+719,NSC,Industrials,Railroads,USA
+724,AFG,Financial,Insurance - Property & Casualty,USA
+725,WSM,Consumer Cyclical,Specialty Retail,USA
+726,AGYS,Technology,Software - Application,USA
+727,JKHY,Technology,Information Technology Services,USA
+731,LEG,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+734,WFC,Financial,Banks - Diversified,USA
+736,SEIC,Financial,Asset Management,USA
+739,SLM,Financial,Credit Services,USA
+740,CBU,Financial,Banks - Regional,USA
+745,MMM,Industrials,Conglomerates,USA
+748,TWIN,Industrials,Specialty Industrial Machinery,USA
+751,FRD,Basic Materials,Steel,USA
+756,UGI,Utilities,Utilities - Regulated Gas,USA
+757,BBWI,Consumer Cyclical,Specialty Retail,USA
+763,UDR,Real Estate,REIT - Residential,USA
+765,ARL,Real Estate,Real Estate Services,USA
+767,SWK,Industrials,Tools & Accessories,USA
+768,NPK,Industrials,Aerospace & Defense,USA
+772,GGG,Industrials,Specialty Industrial Machinery,USA
+774,CW,Industrials,Aerospace & Defense,USA
+776,PCAR,Industrials,Farm & Heavy Construction Machinery,USA
+789,ABEO,Healthcare,Biotechnology,USA
+794,GTY,Real Estate,REIT - Retail,USA
+796,NJR,Utilities,Utilities - Regulated Gas,USA
+799,ARTW,Industrials,Farm & Heavy Construction Machinery,USA
+800,TYL,Technology,Software - Application,USA
+801,VZ,Communication Services,Telecom Services,USA
+802,BK,Financial,Banks - Diversified,USA
+803,ASB,Financial,Banks - Regional,USA
+805,PNC,Financial,Banks - Regional,USA
+806,CPK,Utilities,Utilities - Regulated Gas,USA
+810,HUBB,Industrials,Electrical Equipment & Parts,USA
+815,JHI,Financial,Closed-End Fund - Debt,USA
+819,GROW,Financial,Asset Management,USA
+820,GATX,Industrials,Rental & Leasing Services,USA
+822,LGL,Technology,Scientific & Technical Instruments,USA
+831,FUL,Basic Materials,Specialty Chemicals,USA
+832,AXP,Financial,Credit Services,USA
+834,ABT,Healthcare,Medical Devices,USA
+835,ROST,Consumer Cyclical,Apparel Retail,USA
+839,KF,Financial,Closed-End Fund - Foreign,USA
+840,ROL,Consumer Cyclical,Personal Services,USA
+841,DUK,Utilities,Utilities - Regulated Electric,USA
+843,IBM,Technology,Information Technology Services,USA
+846,GRC,Industrials,Specialty Industrial Machinery,USA
+847,ATO,Utilities,Utilities - Regulated Gas,USA
+849,LEN,Consumer Cyclical,Residential Construction,USA
+850,TAYD,Industrials,Specialty Industrial Machinery,USA
+851,BALL,Consumer Cyclical,Packaging & Containers,USA
+852,NOC,Industrials,Aerospace & Defense,USA
+855,DOV,Industrials,Specialty Industrial Machinery,USA
+859,AZZ,Industrials,Specialty Business Services,USA
+860,SR,Utilities,Utilities - Regulated Gas,USA
+862,ARW,Technology,Electronics & Computer Distribution,USA
+868,MATX,Industrials,Marine Shipping,USA
+870,TRMK,Financial,Banks - Regional,USA
+871,J,Industrials,Engineering & Construction,USA
+872,NVR,Consumer Cyclical,Residential Construction,USA
+873,BBY,Consumer Cyclical,Specialty Retail,USA
+881,BF-A,Consumer Defensive,Beverages - Wineries & Distilleries,USA
+882,NEU,Basic Materials,Specialty Chemicals,USA
+883,PFE,Healthcare,Drug Manufacturers - General,USA
+887,ABM,Industrials,Specialty Business Services,USA
+890,RGLD,Basic Materials,Gold,USA
+893,DVN,Energy,Oil & Gas E&P,USA
+895,WEYS,Consumer Cyclical,Footwear & Accessories,USA
+897,RES,Energy,Oil & Gas Equipment & Services,USA
+901,FHN,Financial,Banks - Regional,USA
+902,EMR,Industrials,Specialty Industrial Machinery,USA
+908,TCI,Real Estate,Real Estate Services,USA
+909,CECO,Industrials,Pollution & Treatment Controls,USA
+910,PBT,Energy,Oil & Gas Midstream,USA
+919,HD,Consumer Cyclical,Home Improvement Retail,USA
+921,AMAT,Technology,Semiconductor Equipment & Materials,USA
+927,ESP,Industrials,Electrical Equipment & Parts,USA
+930,DSGR,Industrials,Industrial Distribution,USA
+933,WLY,Communication Services,Publishing,USA
+936,ASA,Financial,Closed-End Fund - Equity,USA
+938,WRB,Financial,Insurance - Property & Casualty,USA
+943,WAFD,Financial,Banks - Regional,USA
+944,CTO,Real Estate,REIT - Diversified,USA
+946,CDE,Basic Materials,Gold,USA
+948,CNA,Financial,Insurance - Property & Casualty,USA
+949,UNF,Industrials,Specialty Business Services,USA
+953,AIT,Industrials,Industrial Distribution,USA
+954,HSY,Consumer Defensive,Confectioners,USA
+955,BIO,Healthcare,Medical Devices,USA
+960,OGE,Utilities,Utilities - Regulated Electric,USA
+971,TKR,Industrials,Tools & Accessories,USA
+976,WWW,Consumer Cyclical,Footwear & Accessories,USA
+981,MTRN,Basic Materials,Other Industrial Metals & Mining,USA
+986,NFG,Energy,Oil & Gas Integrated,USA
+988,MNST,Consumer Defensive,Beverages - Non-Alcoholic,USA
+992,CAT,Industrials,Farm & Heavy Construction Machinery,USA
+993,UNP,Industrials,Railroads,USA
