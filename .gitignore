@@ -1,5 +1,4 @@
-*.parquet
+data/01_raw/returns.parquet
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-*.zip
