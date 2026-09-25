@@ -1,62 +1,97 @@
 # paper-financial-graph
 
-Code repository for the upcoming paper
+Reproducibility repository for the manuscript:
 
-This project implements a novel financial analysis pipeline that involves correlation matrix estimation, network theory, and portfolio optimization to analyze lead-lag relationships between financial assets.
+> Roque, G. R. O., Ferraresi, M., & Borges, C. C. H. (2026).
+> *Hybrid Centrality and Network Topology in Equity Markets: Asset Pricing and
+> Portfolio Implications.*
+
+The repository contains the network-construction pipeline, the portfolio
+analyses, the Treynor-Black active-strategy implementation, and the manuscript
+source. All results reported in the paper can be reproduced from the files here.
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Manuscript](#manuscript)
 - [Project Structure](#project-structure)
 - [Requirements & Installation](#requirements--installation)
 - [Pipeline Execution](#pipeline-execution)
-- [License](#license)
+- [Treynor-Black pipeline (Section 5.4)](#treynor-black-pipeline-section-54)
 
 ## Overview
 
-This paper investigates whether financial network topology identifies lead–lag
-relationships in stock returns. Using shrinkage estimators and the Triangulated Maximally
-Filtered Graph (TMFG), we construct sparse, robust correlation networks to represent
-cross-asset dependence. We introduce a hybrid centrality score integrating degree, close-
-ness, and eigenvector centrality to rank assets by topological importance. Stocks are then
-sorted into central and peripheral portfolios. Using lagged cross-covariance matrices, we
-analyze information diffusion across different frequencies. Empirical results reveal that
-central portfolios significantly lead peripheral portfolios, particularly at the daily horizon.
-Notably, this lead–lag effect persists even when controlling for traditional factors like
-size, beta, and momentum, suggesting that network topology captures distinct, econom-
-ically relevant information. Our findings demonstrate that hybrid centrality measures
-offer a powerful tool for understanding return predictability and the structural dynamics
-of equity markets.
+This paper investigates whether information diffusion dynamics in equity markets
+are associated with the topology of correlation-based financial networks. Using
+shrinkage estimators and the Triangulated Maximally Filtered Graph (TMFG), we
+construct sparse, robust correlation networks and introduce a Hybrid Centrality
+Metric (HCM) integrating degree, closeness, and eigenvector centrality to
+partition the universe into central and peripheral portfolios. We study the
+resulting asset-pricing characteristics, lead–lag dynamics, and out-of-sample
+portfolio performance, including a reproducible Treynor-Black active overlay.
+
+## Manuscript
+
+The LaTeX source is under `paper/` (`main.tex`, `references.bib`, `rbfin.cls`,
+`figures/`). Build with `latexmk -pdf main.tex` or
+`tectonic -X compile main.tex` from the `paper/` directory.
+
+Repository: <https://github.com/gustavoroque97/paper-financial-graph>
 
 ## Project Structure
 
-The codebase is organized into modular Jupyter Notebooks representing different stages of the research pipeline:
-
-- **`data_clean/`**: Initial data ingestion, cleaning, and computation of baseline financial metrics.
-- **`graphs/`**: Network construction and analysis. Builds yearly lead-lag relationship graphs and explores network centrality metrics.
-- **`leadlag_time_analysis/`**: Time-domain analysis of the lead-lag dynamics between assets.
-- **`analysis/`**: Yearly sub-period analyses and dataset organization.
-- **`portfolios/`**: Portfolio construction based on centrality and lead-lag relationships.
-- **`trading/`**: Out-of-sample backtesting and performance evaluation of the graph-based trading strategies.
+- **`paper/`**: manuscript source (`main.tex`) and figures.
+- **`code/`**: analysis pipeline (Jupyter notebooks and modules).
+  - **`code/treynor_black/`**: Treynor-Black active-strategy implementation and
+    runner (Section 5.4 of the paper).
+- **`scripts/revisions/`**: revision analyses — robustness (multiple testing,
+  size/BAB spanning, stocks-only), top-k/budget sensitivity, and the
+  Treynor-Black reproduction.
+- **`data/`**: inputs and intermediate outputs (portfolio returns, metadata, TMFG
+  graphs).
+- The original pipeline is organized into modular notebooks:
+  - **`data_clean/`**: data ingestion, cleaning, baseline financial metrics.
+  - **`graphs/`**: network construction and centrality metrics.
+  - **`leadlag_time_analysis/`**: time-domain lead–lag analysis.
+  - **`analysis/`**: yearly sub-period analyses and dataset organization.
+  - **`portfolios/`**: centrality-based portfolio construction.
+  - **`trading/`**: out-of-sample backtesting of the graph-based strategies.
 
 ## Requirements & Installation
 
-This project uses [Poetry](https://python-poetry.org/) for dependency management. Requires Python >= 3.11.
-
-To install the dependencies, clone the repository and run:
+This project uses [Poetry](https://python-poetry.org/) for dependency management.
+Requires Python >= 3.11.
 
 ```bash
 poetry install
 ```
 
-Key dependencies include:
-- **Data & Computation**: `pandas`, `numpy`, `scikit-learn`, `statsmodels`
-- **Network Analysis**: `networkx`
+Key dependencies: `pandas`, `numpy`, `scikit-learn`, `statsmodels` (data and
+computation) and `networkx` (network analysis).
 
 ## Pipeline Execution
 
 The research pipeline is built to be run sequentially through the notebooks:
+
 1. Run notebooks in `data_clean/` to prepare the datasets.
 2. Build the lead-lag networks using the notebooks in `graphs/`.
 3. Perform the data analysis in `analysis/`.
-4. Construct and evaluate the lead-lag relationship using `leadlag_time_analysis/` and `trading/out_of_sample.ipynb`.
+4. Construct and evaluate the lead-lag relationships using
+   `leadlag_time_analysis/` and `trading/out_of_sample.ipynb`.
+
+## Treynor-Black pipeline (Section 5.4)
+
+```bash
+python code/treynor_black/run_treynor_black.py
+```
+
+Running with the default settings (`top_k=25`, `w_A=0.20`, 10 bps costs)
+reproduces the published table over the 2015–2024 out-of-sample window:
+benchmark 20.96%, HCM Unconstrained 25.31%, HCM Long-Only 23.51%, Pozzi
+21.16% / 21.05%.
+
+Sensitivity to the top-$k$ alpha screen and the active budget:
+
+```bash
+python scripts/revisions/tb_sensitivity.py
+```
